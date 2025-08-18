@@ -1,0 +1,959 @@
+OrderID,OrderDate,CustomerID,CustomerName,CustomerEmail,Country,ProductID,ProductCategory,ProductName,Quantity,UnitPrice,TotalPrice,SalesRegion
+1.0,2025-05-04,9233.0,Justin Burgess,vnelson@roberts-murray.com,Israel,836.0,electronics,Headphones,7.0,307.44,2152.08,South
+2.0,2024-09-28,9816.0,Joe Williams,igordon@yahoo.com,Angola,760.0,Sports,Football,10.0,833.84,8338.4,West
+,,,,,,,,,,,,
+3.0,2025-01-08,1008.0,Nicholas Barnes,taylorrobert@gmail.com,United Arab Emirates,677.0,sports,treadmill,9.0,105.01,945.09,North
+4.0,2024-10-08,9227.0,Troy Wagner,amartinez@hotmail.com,palau,921.0,Clothing,Jeans,10.0,253.59,2535.9,South
+4.0,2024-10-08,9227.0,Troy Wagner,amartinez@hotmail.com,palau,921.0,Clothing,Jeans,10.0,253.59,2535.9,South
+4.0,2024-10-08,9227.0,Troy Wagner,amartinez@hotmail.com,palau,921.0,Clothing,Jeans,10.0,253.59,2535.9,South
+5.0,2023-08-14,1440.0,Miguel Johnson,taraward@gmail.com,Estonia,956.0,Electronics,Laptop,2.0,693.5,1387.0,north
+6.0,2023-06-23,5333.0,Deborah Brooks,carolyndodson@castro.net,Hong Kong,546.0,Electronics,Smartphone,8.0,994.65,7957.2,North
+7.0,2024-01-07,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,812.0,Clothing,Jacket,5.0,335.78,1678.9,East
+,,,,,,,,,,,,
+8.0,2023-09-12,5357.0,Christopher Hill,jacob63@day.com,Japan,802.0,Clothing,T-Shirt,4.0,477.07,1908.28,South
+9.0,2023-12-26,1158.0,Jessica Morrison,charlesgonzalez@li.org,Guernsey,603.0,Sports,Tennis Racket,5.0,21.71,108.55,West
+10.0,2023-11-02,2326.0,Robert Carroll,cindy25@fernandez-medina.com,Portugal,841.0,Beauty,Nail Polish,3.0,803.36,2410.08,South
+11.0,2024-07-07,8277.0,Kim Weaver,lambertrodney@hotmail.com,Mongolia,526.0,Clothing,socks,7.0,992.47,6947.29,North
+12.0,2024-11-12,5174.0,Larry Mack,barnesjennifer@kennedy-porter.org,Croatia,810.0,Clothing,T-Shirt,3.0,46.61,139.83,east
+13.0,2024-09-30,5400.0,Jessica Weber,mejiaalisha@gmail.com,Guinea,839.0,Furniture,Couch,1.0,491.89,491.89,West
+14.0,2024-05-27,2020.0,Melanie Gonzalez,amber03@hotmail.com,Montserrat,798.0,Furniture,Bed,4.0,640.97,2563.88,West
+15.0,2024-10-23,1440.0,Miguel Johnson,taraward@gmail.com,Estonia,697.0,Clothing,Shoes,7.0,278.6,1950.2,East
+16.0,2024-02-12,4073.0,Joshua Howard,ernestpoole@williams.com,Colombia,976.0,Electronics,Smartphone,7.0,242.43,1697.01,West
+16.0,2024-02-12,4073.0,Joshua Howard,ernestpoole@williams.com,Colombia,976.0,Electronics,Smartphone,7.0,242.43,1697.01,West
+17.0,2023-11-14,1792.0,Patrick Brown,janekelley@hotmail.com,French Southern Territories,823.0,Furniture,Bed,10.0,799.32,7993.2,North
+18.0,2024-10-28,9035.0,Nathaniel Long,perrychristy@miller-bryant.com,Macedonia,621.0,Clothing,T-Shirt,7.0,866.25,6063.75,East
+19.0,2024-06-21,9035.0,Nathaniel Long,perrychristy@miller-bryant.com,Macedonia,626.0,Clothing,Shoes,10.0,133.98,1339.8,South
+,,,,,,,,,,,,
+20.0,2023-08-11,1497.0,Sarah Nielsen,omcdonald@scott.com,Kiribati,526.0,Clothing,Jacket,4.0,903.25,3613.0,East
+21.0,2024-03-22,2610.0,Krista Sampson,bonnie76@michael.info,Jamaica,892.0,Furniture,Couch,3.0,648.57,1945.71,West
+22.0,2024-12-12,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,939.0,Electronics,Headphones,10.0,542.34,5423.4,West
+23.0,2025-02-08,9387.0,Benjamin Hardy,richardgraves@gmail.com,Mexico,763.0,Clothing,T-Shirt,6.0,433.91,2603.46,West
+24.0,2024-08-04,4073.0,Joshua Howard,ernestpoole@williams.com,Colombia,671.0,Clothing,T-Shirt,8.0,684.93,5479.44,South
+25.0,2023-12-02,2377.0,Heather Smith,kingeric@whitney.net,Burkina Faso,513.0,Clothing,Shoes,4.0,882.43,3529.72,South
+26.0,2024-01-16,3411.0,Ashley Lang,kimberly70@best.info,Belgium,882.0,Furniture,Couch,8.0,75.11,600.88,West
+27.0,2024-04-21,7107.0,Randall Robinson,ucarter@sanders-mccarthy.com,Senegal,513.0,Furniture,Chair,1.0,43.52,43.52,East
+28.0,2025-05-12,2486.0,Scott Greene,wconrad@hotmail.com,United States of America,867.0,Electronics,Laptop,8.0,324.51,2596.08,West
+30.0,2024-06-18,5514.0,Jeremiah Fowler,kirstensmith@gmail.com,Congo,950.0,Clothing,Jacket,3.0,27.85,83.55,West
+31.0,2024-06-17,3976.0,Leslie Torres,hrocha@gmail.com,Niger,719.0,Electronics,Headphones,3.0,442.59,1327.77,East
+32.0,2024-03-29,8379.0,David Kelley,bthomas@rios-lawson.com,Guinea,582.0,Sports,Basketball,9.0,389.6,3506.4,East
+34.0,2024-05-24,6093.0,Ashley Russo,johnsmith@hotmail.com,Liberia,698.0,Sports,Bicycle,4.0,238.87,955.48,North
+35.0,2024-12-18,2746.0,Jesse Krause,cookkimberly@yahoo.com,Lesotho,704.0,Beauty,Perfume,6.0,757.67,4546.02,North
+36.0,2024-03-29,1440.0,Miguel Johnson,taraward@gmail.com,Estonia,652.0,Electronics,Monitor,8.0,337.62,2700.96,East
+37.0,2024-06-14,3258.0,Reginald Middleton,wfletcher@gmail.com,South Georgia and the South Sandwich Islands,810.0,Clothing,Socks,10.0,823.13,8231.3,West
+38.0,2023-10-13,5909.0,Sharon Ramos,muellerduane@yahoo.com,Angola,626.0,Clothing,T-Shirt,4.0,258.76,1035.04,South
+39.0,2024-09-04,7143.0,Timothy French,allenglass@rodriguez.com,Ireland,532.0,Beauty,Lotion,3.0,285.78,857.34,West
+40.0,2025-01-15,7242.0,Benjamin Peterson,patrickchad@gmail.com,Niger,852.0,Clothing,Jeans,7.0,780.94,5466.58,West
+41.0,2023-09-03,8277.0,Kim Weaver,lambertrodney@hotmail.com,Mongolia,853.0,Clothing,Jeans,5.0,983.68,4918.4,North
+42.0,2024-10-22,9387.0,Benjamin Hardy,richardgraves@gmail.com,Mexico,989.0,Electronics,Laptop,3.0,536.77,1610.31,South
+43.0,2025-03-07,4664.0,Eric Olson,barreraashley@white-stone.org,Belize,576.0,Furniture,Chair,4.0,680.06,2720.24,East
+44.0,2024-10-22,3229.0,Victor Vazquez,michaelscott@robertson-wilkins.biz,Australia,696.0,Clothing,Shoes,1.0,773.37,773.37,South
+45.0,2023-08-30,4717.0,Emily Phillips,laura35@yahoo.com,Armenia,733.0,Electronics,Camera,5.0,218.4,1092.0,South
+46.0,2023-10-24,9090.0,Michael Myers,jodisandoval@yahoo.com,Vanuatu,970.0,Beauty,Perfume,1.0,490.07,490.07,East
+47.0,2024-01-04,9991.0,Tyler Chapman,jasonsmith@yahoo.com,Afghanistan,986.0,Electronics,Monitor,10.0,293.3,2933.0,North
+48.0,2024-04-06,8341.0,Nathaniel Johns,francisco29@ward.info,Macedonia,891.0,Sports,Treadmill,3.0,691.06,2073.18,West
+49.0,2025-02-12,7890.0,Whitney Stewart,jonathan28@meadows.com,Barbados,589.0,Furniture,Bed,6.0,756.67,4540.02,North
+50.0,2023-09-04,6891.0,Mark West,patricia36@steele.com,Japan,985.0,Electronics,Monitor,5.0,345.32,1726.6,West
+51.0,2023-12-22,3732.0,Karen Young,lzuniga@hotmail.com,Saint Barthelemy,526.0,Beauty,Makeup,1.0,464.35,464.35,West
+52.0,2024-11-12,8588.0,Ellen Horton,ybaker@robinson-murphy.com,Mauritania,988.0,Beauty,Makeup,2.0,575.61,1151.22,South
+54.0,2024-03-19,2482.0,Antonio Davis,dana59@villegas-moore.com,Botswana,942.0,Beauty,Makeup,3.0,721.04,2163.12,South
+56.0,2023-08-02,5048.0,Frank Chandler,tammyhoover@bender-ferguson.biz,Mayotte,655.0,Clothing,Socks,9.0,651.9,5867.1,West
+57.0,2025-05-30,2132.0,Alicia Cannon,qbrown@decker.org,Pitcairn Islands,562.0,Beauty,Nail Polish,1.0,334.55,334.55,South
+58.0,2023-07-31,9887.0,Arthur Cortez,denise15@yahoo.com,French Polynesia,607.0,Electronics,Monitor,3.0,640.71,1922.13,North
+59.0,2024-03-19,7242.0,Benjamin Peterson,patrickchad@gmail.com,Niger,611.0,Clothing,Jacket,7.0,76.7,536.9,South
+60.0,2024-05-19,8859.0,Tammy Zhang,rodriguezdalton@hotmail.com,Guam,934.0,Clothing,Shoes,7.0,812.35,5686.45,North
+61.0,2024-11-23,9895.0,Matthew Stark,brianguerra@blankenship.com,Libyan Arab Jamahiriya,596.0,Beauty,Makeup,6.0,345.78,2074.68,West
+62.0,2024-12-10,9001.0,Diane Lawrence,qcook@stewart.biz,Turks and Caicos Islands,788.0,Clothing,Jacket,1.0,730.58,730.58,East
+63.0,2024-07-13,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,501.0,Clothing,Shoes,7.0,827.42,5791.94,East
+64.0,2025-03-07,1008.0,Nicholas Barnes,taylorrobert@gmail.com,United Arab Emirates,608.0,Clothing,Jeans,10.0,253.73,2537.3,North
+65.0,2024-07-04,4717.0,Emily Phillips,laura35@yahoo.com,Armenia,945.0,Electronics,Smartphone,8.0,902.94,7223.52,South
+66.0,2024-07-19,4902.0,Kenneth Meyer,ryancurry@anderson-garcia.biz,Ireland,895.0,Sports,Treadmill,2.0,844.73,1689.46,West
+67.0,2025-05-08,3640.0,Pamela Allen,djones@yahoo.com,Iceland,598.0,Beauty,Nail Polish,10.0,352.35,3523.5,South
+68.0,2024-05-08,4475.0,Andrea Turner,sellersamanda@burke-rangel.info,Saudi Arabia,543.0,Beauty,Lotion,2.0,823.44,1646.88,North
+69.0,2024-09-19,8443.0,Joseph Wise,nwhite@davis-foster.com,Jersey,601.0,Clothing,Jacket,10.0,310.76,3107.6,West
+70.0,2024-10-20,5174.0,Larry Mack,barnesjennifer@kennedy-porter.org,Croatia,684.0,Electronics,Headphones,6.0,911.07,5466.42,East
+71.0,2023-08-08,3226.0,Ryan Finley,cwhite@smith.com,Luxembourg,744.0,Sports,Bicycle,4.0,924.11,3696.44,North
+72.0,2025-03-07,6883.0,Tamara Perez,jacksonjames@gmail.com,Nigeria,632.0,Clothing,T-Shirt,3.0,207.15,621.45,South
+73.0,2024-01-30,3411.0,Ashley Lang,kimberly70@best.info,Belgium,704.0,Beauty,Lotion,10.0,692.29,6922.9,West
+74.0,2024-05-04,3335.0,Justin Ellis,amybentley@keith.biz,Estonia,862.0,Sports,Tennis Racket,6.0,601.56,3609.36,South
+75.0,2024-11-13,5092.0,Kevin Morse PhD,xoliver@tanner.com,Palau,808.0,Furniture,Desk,2.0,796.44,1592.88,North
+76.0,2025-03-20,9001.0,Diane Lawrence,qcook@stewart.biz,Turks and Caicos Islands,746.0,Clothing,Jeans,7.0,892.03,6244.21,North
+77.0,2024-03-08,4804.0,Jenna Robinson,tolson@brown.com,Venezuela,546.0,Beauty,Nail Polish,5.0,976.12,4880.6,North
+78.0,2024-05-19,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,947.0,Furniture,Chair,10.0,992.81,9928.1,South
+79.0,2024-01-14,3607.0,Jonathan Wood,brownkimberly@hotmail.com,Djibouti,644.0,Clothing,T-Shirt,6.0,736.72,4420.32,West
+80.0,2024-04-10,9107.0,Jason Miller,catherineperry@contreras.com,Palau,616.0,Electronics,Smartphone,8.0,397.09,3176.72,East
+81.0,2024-10-06,5061.0,Dennis Carey,bailey62@yahoo.com,Norfolk Island,958.0,Clothing,Jacket,1.0,829.97,829.97,East
+82.0,2024-09-15,5043.0,Cheryl Young,jmoreno@morales.info,Belgium,688.0,Sports,Treadmill,2.0,952.37,1904.74,North
+83.0,2024-12-05,1420.0,Hayley Fox,danaryan@jimenez.com,Faroe Islands,638.0,Clothing,T-Shirt,9.0,918.74,8268.66,East
+84.0,2025-03-14,9583.0,David Farley,mirandapeterson@fisher.info,Afghanistan,906.0,Furniture,Table,8.0,360.15,2881.2,West
+85.0,2024-08-17,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,894.0,Sports,Treadmill,7.0,851.76,5962.32,West
+86.0,2024-05-08,1497.0,Sarah Nielsen,omcdonald@scott.com,Kiribati,955.0,Sports,Bicycle,4.0,94.98,379.92,South
+87.0,2024-08-23,6031.0,Stephanie Lewis,ronaldcannon@gmail.com,Korea,841.0,Clothing,Shoes,6.0,771.31,4627.86,North
+88.0,2025-06-01,2672.0,Annette Phillips,aaron27@yahoo.com,Guadeloupe,901.0,Electronics,Monitor,10.0,823.49,8234.9,East
+89.0,2025-01-15,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,981.0,Sports,Bicycle,9.0,721.52,6493.68,West
+90.0,2024-11-22,4148.0,Gary Torres,greyes@johnson-donovan.com,Malawi,980.0,Electronics,Laptop,9.0,772.78,6955.02,West
+91.0,2023-09-27,8604.0,Timothy Henson,sarah52@reed.org,Mayotte,795.0,Clothing,Jeans,10.0,104.87,1048.7,West
+92.0,2024-04-24,4763.0,Christopher James,beverlyrodriguez@lawson.com,Tunisia,526.0,Sports,Basketball,10.0,250.24,2502.4,North
+93.0,2024-02-18,2377.0,Heather Smith,kingeric@whitney.net,Burkina Faso,631.0,Furniture,Table,7.0,616.45,4315.15,East
+94.0,2023-10-06,5808.0,Susan Powers,everettstephen@smith.com,Iceland,959.0,Beauty,Nail Polish,5.0,69.69,348.45,West
+95.0,2024-05-12,8942.0,Dean Russell,robert06@hines.com,Belarus,805.0,Clothing,Shoes,3.0,747.4,2242.2,West
+96.0,2024-05-24,8491.0,Jane Perkins,gmiller@yahoo.com,Saint Martin,752.0,Furniture,Chair,1.0,200.94,200.94,North
+97.0,2025-06-01,5357.0,Christopher Hill,jacob63@day.com,Japan,528.0,Clothing,Shoes,9.0,826.7,7440.3,West
+98.0,2023-10-24,7625.0,Toni Hernandez,scotttracy@gmail.com,Trinidad and Tobago,995.0,Sports,Bicycle,10.0,636.71,6367.1,South
+99.0,2025-01-30,2734.0,Erica Brown,webermolly@gilmore-andrews.net,Libyan Arab Jamahiriya,995.0,Beauty,Makeup,3.0,793.78,2381.34,North
+100.0,2023-11-29,7351.0,Joshua Rojas,joneserica@smith-guzman.com,Lebanon,613.0,Electronics,Headphones,1.0,810.39,810.39,North
+101.0,2025-05-09,2746.0,Jesse Krause,cookkimberly@yahoo.com,Lesotho,963.0,Furniture,Bed,4.0,922.93,3691.72,West
+102.0,2025-05-23,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,708.0,Furniture,Desk,1.0,809.85,809.85,East
+103.0,2025-02-25,2672.0,Annette Phillips,aaron27@yahoo.com,Guadeloupe,815.0,Electronics,Laptop,1.0,731.11,731.11,East
+104.0,2025-04-06,8305.0,Wayne Stokes,brendaclark@castillo-delgado.com,Mali,807.0,Furniture,Bed,9.0,918.82,8269.38,West
+105.0,2023-09-24,8433.0,Jacob Norris,mariachang@nguyen.com,South Georgia and the South Sandwich Islands,830.0,Beauty,Nail Polish,9.0,774.86,6973.74,North
+106.0,2025-04-16,3226.0,Ryan Finley,cwhite@smith.com,Luxembourg,837.0,Clothing,Jeans,5.0,145.85,729.25,South
+107.0,2023-10-31,2734.0,Erica Brown,webermolly@gilmore-andrews.net,Libyan Arab Jamahiriya,823.0,Electronics,Monitor,9.0,714.17,6427.53,North
+108.0,2024-04-02,1351.0,Jeffrey Anderson,wallkevin@hotmail.com,French Southern Territories,572.0,Clothing,Jacket,9.0,883.37,7950.33,West
+109.0,2024-02-13,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,913.0,Sports,Bicycle,2.0,913.53,1827.06,South
+110.0,2023-11-23,7494.0,Christopher Leon,margaretburnett@rivera.com,New Zealand,800.0,Sports,Tennis Racket,3.0,214.44,643.32,North
+111.0,2024-07-19,8588.0,Ellen Horton,ybaker@robinson-murphy.com,Mauritania,792.0,Electronics,Headphones,3.0,977.41,2932.23,South
+112.0,2025-05-12,1712.0,Karen Williams MD,david62@gmail.com,Netherlands Antilles,962.0,Beauty,Lotion,10.0,510.61,5106.1,East
+113.0,2024-11-01,9991.0,Tyler Chapman,jasonsmith@yahoo.com,Afghanistan,743.0,Clothing,Jeans,1.0,191.07,191.07,East
+114.0,2024-12-19,2884.0,Lorraine Kim,morgandeborah@hotmail.com,Venezuela,807.0,Clothing,Jacket,6.0,480.29,2881.74,North
+115.0,2025-04-13,8859.0,Tammy Zhang,rodriguezdalton@hotmail.com,Guam,679.0,Clothing,Jeans,7.0,380.48,2663.36,East
+116.0,2025-01-17,2672.0,Annette Phillips,aaron27@yahoo.com,Guadeloupe,639.0,Electronics,Monitor,7.0,461.5,3230.5,North
+117.0,2023-12-02,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,797.0,Electronics,Monitor,10.0,185.85,1858.5,North
+118.0,2024-03-14,8491.0,Jane Perkins,gmiller@yahoo.com,Saint Martin,900.0,Sports,Treadmill,4.0,368.82,1475.28,West
+119.0,2024-03-16,3640.0,Pamela Allen,djones@yahoo.com,Iceland,567.0,Sports,Basketball,5.0,248.65,1243.25,East
+120.0,2023-12-06,8443.0,Joseph Wise,nwhite@davis-foster.com,Jersey,754.0,Furniture,Table,6.0,601.01,3606.06,North
+121.0,2023-08-18,1712.0,Karen Williams MD,david62@gmail.com,Netherlands Antilles,767.0,Furniture,Chair,9.0,506.29,4556.61,North
+122.0,2025-04-11,7361.0,Willie Castillo Jr.,awaters@hotmail.com,Comoros,909.0,Furniture,Chair,3.0,324.97,974.91,East
+123.0,2025-02-14,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,981.0,Electronics,Laptop,5.0,535.69,2678.45,North
+124.0,2025-01-24,8859.0,Tammy Zhang,rodriguezdalton@hotmail.com,Guam,779.0,Electronics,Camera,2.0,283.81,567.62,North
+126.0,2023-10-28,1161.0,Juan Montoya,shawndixon@brooks-taylor.com,Egypt,699.0,Clothing,Shoes,9.0,869.9,7829.1,South
+127.0,2025-01-01,7361.0,Willie Castillo Jr.,awaters@hotmail.com,Comoros,579.0,Furniture,Chair,1.0,733.76,733.76,South
+128.0,2024-01-14,4211.0,Rachael Woods,washingtonsarah@yahoo.com,Sri Lanka,993.0,Beauty,Lotion,9.0,399.69,3597.21,North
+129.0,2023-11-24,6590.0,Dawn Garza,stephen37@matthews.com,Palau,831.0,Clothing,Socks,10.0,595.11,5951.1,South
+130.0,2025-05-31,5622.0,Aaron Cox,rmelton@hughes.info,Mauritania,782.0,Sports,Football,10.0,922.52,9225.2,West
+131.0,2025-03-21,4804.0,Jenna Robinson,tolson@brown.com,Venezuela,806.0,Sports,Treadmill,3.0,710.72,2132.16,West
+132.0,2023-12-27,4896.0,Paul Gonzalez,charlesmendez@hotmail.com,Australia,726.0,Beauty,Lotion,9.0,555.13,4996.17,North
+133.0,2024-02-03,5996.0,Jessica Kelly,brandy96@watson.com,Turkmenistan,581.0,Beauty,Shampoo,6.0,299.12,1794.72,East
+134.0,2025-04-12,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,935.0,Beauty,Lotion,9.0,227.52,2047.68,North
+135.0,2023-08-03,3411.0,Ashley Lang,kimberly70@best.info,Belgium,528.0,Clothing,Jacket,3.0,574.22,1722.66,East
+136.0,2023-08-28,1420.0,Hayley Fox,danaryan@jimenez.com,Faroe Islands,871.0,Beauty,Nail Polish,10.0,676.84,6768.4,South
+137.0,2023-08-16,9938.0,William Rivera,randolphkathryn@curtis.biz,Mongolia,924.0,Sports,Basketball,1.0,578.26,578.26,West
+138.0,2024-09-22,1351.0,Jeffrey Anderson,wallkevin@hotmail.com,French Southern Territories,673.0,Beauty,Shampoo,10.0,986.39,9863.9,North
+139.0,2024-01-18,8352.0,Adam Burns,michael72@hotmail.com,Nigeria,838.0,Sports,Basketball,2.0,789.34,1578.68,West
+140.0,2024-03-20,1355.0,Lindsey Peterson,james86@baldwin-pope.org,Saint Kitts and Nevis,810.0,Beauty,Shampoo,7.0,458.66,3210.62,South
+142.0,2024-07-12,9094.0,Erica Martin,monica53@kim.com,Guadeloupe,599.0,Sports,Treadmill,5.0,451.52,2257.6,South
+143.0,2025-06-17,1355.0,Lindsey Peterson,james86@baldwin-pope.org,Saint Kitts and Nevis,505.0,Sports,Tennis Racket,9.0,324.03,2916.27,North
+144.0,2025-03-04,9001.0,Diane Lawrence,qcook@stewart.biz,Turks and Caicos Islands,905.0,Sports,Treadmill,9.0,676.05,6084.45,South
+145.0,2024-08-26,2924.0,Amanda Hayden,leonard92@hotmail.com,Jersey,562.0,Sports,Bicycle,10.0,825.51,8255.1,East
+146.0,2023-08-26,2305.0,Robert Hill,riverskathleen@yahoo.com,Italy,937.0,Electronics,Monitor,2.0,369.48,738.96,West
+147.0,2025-04-15,3411.0,Ashley Lang,kimberly70@best.info,Belgium,619.0,Electronics,Smartphone,9.0,437.99,3941.91,West
+148.0,2025-04-24,1349.0,Holly Jones,yrangel@yahoo.com,Solomon Islands,735.0,Beauty,Makeup,9.0,855.48,7699.32,South
+149.0,2024-04-11,7361.0,Willie Castillo Jr.,awaters@hotmail.com,Comoros,528.0,Electronics,Smartphone,2.0,957.26,1914.52,North
+150.0,2023-11-30,5400.0,Jessica Weber,mejiaalisha@gmail.com,Guinea,906.0,Electronics,Laptop,7.0,413.1,2891.7,West
+151.0,2025-01-02,6274.0,Daniel Madden,qgarza@flowers.net,Armenia,649.0,Furniture,Bed,3.0,139.62,418.86,East
+152.0,2024-06-16,2447.0,Mario Bates,xcraig@miller.biz,Ecuador,569.0,Furniture,Bed,4.0,471.47,1885.88,East
+153.0,2025-01-13,9387.0,Benjamin Hardy,richardgraves@gmail.com,Mexico,909.0,Furniture,Chair,2.0,660.96,1321.92,North
+154.0,2024-03-26,5851.0,John Flores,kristenkennedy@lane.com,Liberia,511.0,Sports,Basketball,3.0,941.12,2823.36,West
+155.0,2024-01-29,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,964.0,Sports,Bicycle,4.0,510.18,2040.72,West
+156.0,2024-02-28,8761.0,Sara Green,joseph01@gmail.com,Nicaragua,745.0,Beauty,Perfume,6.0,66.58,399.48,South
+157.0,2025-02-07,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,516.0,Electronics,Camera,6.0,204.55,1227.3,North
+158.0,2023-09-13,1540.0,Angela Mcdaniel,williamsalicia@gmail.com,Senegal,857.0,Furniture,Couch,4.0,919.06,3676.24,South
+159.0,2024-08-20,1344.0,James Sanchez,richard00@ramirez-smith.com,Bosnia and Herzegovina,651.0,Electronics,Monitor,2.0,954.9,1909.8,West
+160.0,2023-09-07,5808.0,Susan Powers,everettstephen@smith.com,Iceland,980.0,Clothing,Socks,10.0,838.53,8385.3,North
+162.0,2024-06-27,2231.0,Laurie Wise,alexis07@garcia-brown.com,Cook Islands,828.0,Electronics,Camera,4.0,962.95,3851.8,East
+163.0,2025-05-01,4319.0,Fred Hanson,hunttodd@taylor.org,Hungary,947.0,Sports,Football,9.0,93.71,843.39,North
+165.0,2023-12-08,1405.0,Tracey Robbins,stephen58@gmail.com,Samoa,893.0,Clothing,Shoes,5.0,771.23,3856.15,North
+166.0,2024-07-13,9895.0,Matthew Stark,brianguerra@blankenship.com,Libyan Arab Jamahiriya,800.0,Electronics,Smartphone,7.0,968.13,6776.91,North
+167.0,2023-09-05,8386.0,Ronnie Wells,michelle25@gmail.com,Faroe Islands,682.0,Electronics,Smartphone,9.0,726.9,6542.1,South
+168.0,2025-02-22,5851.0,John Flores,kristenkennedy@lane.com,Liberia,725.0,Clothing,Socks,5.0,195.9,979.5,North
+169.0,2025-01-16,9107.0,Jason Miller,catherineperry@contreras.com,Palau,741.0,Electronics,Smartphone,8.0,286.51,2292.08,West
+170.0,2024-04-26,3513.0,Emily Martin,danny09@gmail.com,Grenada,743.0,Furniture,Couch,5.0,557.21,2786.05,West
+171.0,2024-08-05,7143.0,Timothy French,allenglass@rodriguez.com,Ireland,535.0,Electronics,Smartphone,3.0,99.14,297.42,West
+172.0,2025-03-20,1161.0,Juan Montoya,shawndixon@brooks-taylor.com,Egypt,743.0,Beauty,Makeup,1.0,409.19,409.19,West
+173.0,2024-05-03,1161.0,Juan Montoya,shawndixon@brooks-taylor.com,Egypt,705.0,Beauty,Makeup,6.0,908.13,5448.78,South
+174.0,2023-09-23,2924.0,Amanda Hayden,leonard92@hotmail.com,Jersey,896.0,Clothing,Shoes,3.0,29.56,88.68,East
+175.0,2025-04-09,2918.0,Christopher Scott,vsmith@banks.com,Gibraltar,514.0,Furniture,Desk,6.0,931.11,5586.66,East
+176.0,2023-11-19,3477.0,Linda Lopez,laneapril@yahoo.com,Svalbard & Jan Mayen Islands,645.0,Beauty,Lotion,10.0,631.85,6318.5,East
+177.0,2025-03-10,5625.0,Kenneth Hill,ana64@yahoo.com,Micronesia,726.0,Electronics,Smartphone,1.0,582.32,582.32,North
+178.0,2024-09-13,5996.0,Jessica Kelly,brandy96@watson.com,Turkmenistan,766.0,Electronics,Laptop,3.0,316.08,948.24,North
+179.0,2023-11-01,9388.0,Cheryl Stone,julie67@harris.com,Slovakia (Slovak Republic),729.0,Clothing,Jeans,3.0,257.09,771.27,North
+180.0,2025-01-22,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,552.0,Electronics,Laptop,5.0,654.67,3273.35,North
+181.0,2024-10-24,1712.0,Karen Williams MD,david62@gmail.com,Netherlands Antilles,813.0,Beauty,Nail Polish,10.0,994.6,9946.0,East
+182.0,2024-11-06,8386.0,Ronnie Wells,michelle25@gmail.com,Faroe Islands,893.0,Beauty,Shampoo,5.0,743.33,3716.65,North
+183.0,2024-03-13,7107.0,Randall Robinson,ucarter@sanders-mccarthy.com,Senegal,556.0,Furniture,Chair,6.0,530.03,3180.18,North
+184.0,2024-05-27,6654.0,Brian Mccarthy,pstout@duncan.com,Anguilla,879.0,Furniture,Couch,4.0,492.98,1971.92,East
+185.0,2025-01-17,8491.0,Jane Perkins,gmiller@yahoo.com,Saint Martin,962.0,Electronics,Camera,1.0,930.52,930.52,South
+186.0,2025-03-08,9035.0,Nathaniel Long,perrychristy@miller-bryant.com,Macedonia,643.0,Furniture,Chair,3.0,918.41,2755.23,South
+187.0,2024-03-01,9703.0,Jeremy Baker,andrew88@brown-ortiz.com,Cuba,730.0,Electronics,Camera,9.0,144.7,1302.3,East
+188.0,2025-03-16,7242.0,Benjamin Peterson,patrickchad@gmail.com,Niger,670.0,Furniture,Couch,9.0,499.82,4498.38,East
+189.0,2024-12-22,2681.0,Rhonda Dunn,bishoplawrence@alvarado-turner.biz,Aruba,513.0,Furniture,Couch,3.0,586.52,1759.56,East
+190.0,2024-09-02,4307.0,Matthew Espinoza,rodriguezbrandon@garcia.com,Zimbabwe,563.0,Sports,Tennis Racket,4.0,538.46,2153.84,East
+191.0,2023-10-01,1497.0,Sarah Nielsen,omcdonald@scott.com,Kiribati,568.0,Sports,Football,10.0,827.22,8272.2,West
+192.0,2024-03-24,5622.0,Aaron Cox,rmelton@hughes.info,Mauritania,877.0,Beauty,Perfume,10.0,400.4,4004.0,East
+193.0,2024-08-01,3640.0,Pamela Allen,djones@yahoo.com,Iceland,509.0,Clothing,Socks,9.0,141.42,1272.78,South
+194.0,2023-11-12,8859.0,Tammy Zhang,rodriguezdalton@hotmail.com,Guam,819.0,Beauty,Makeup,10.0,431.93,4319.3,East
+195.0,2024-08-11,2924.0,Amanda Hayden,leonard92@hotmail.com,Jersey,652.0,Beauty,Nail Polish,8.0,798.87,6390.96,North
+196.0,2024-11-24,9555.0,Angela Pierce,gerald41@hotmail.com,Ethiopia,749.0,Electronics,Smartphone,7.0,735.22,5146.54,West
+197.0,2024-03-12,1008.0,Nicholas Barnes,taylorrobert@gmail.com,United Arab Emirates,768.0,Beauty,Lotion,5.0,120.68,603.4,East
+198.0,2024-04-27,4305.0,Jennifer Gardner,andradetina@gmail.com,Slovakia (Slovak Republic),917.0,Sports,Basketball,2.0,951.39,1902.78,West
+199.0,2024-05-25,5678.0,Lisa Williams,yadams@johnson-cruz.com,Niue,594.0,Furniture,Couch,8.0,199.82,1598.56,East
+200.0,2024-11-17,8190.0,Michael Ellis,osbornedonald@yahoo.com,Saint Lucia,846.0,Furniture,Table,5.0,262.46,1312.3,North
+201.0,2024-09-18,2610.0,Krista Sampson,bonnie76@michael.info,Jamaica,894.0,Sports,Basketball,7.0,465.68,3259.76,East
+202.0,2023-12-09,9420.0,Brianna Yoder,holly82@clark.com,Latvia,785.0,Beauty,Perfume,1.0,460.99,460.99,North
+203.0,2023-09-15,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,942.0,Furniture,Desk,4.0,471.88,1887.52,North
+204.0,2024-06-29,8255.0,Michelle Fields,yrobinson@black.biz,Isle of Man,770.0,Furniture,Table,2.0,933.85,1867.7,West
+205.0,2024-01-31,1008.0,Nicholas Barnes,taylorrobert@gmail.com,United Arab Emirates,813.0,Furniture,Bed,7.0,55.69,389.83,West
+206.0,2023-11-04,7295.0,Michael Johnson,wrightlaura@harris.biz,Eritrea,633.0,Beauty,Lotion,7.0,786.98,5508.86,South
+207.0,2024-09-04,1405.0,Tracey Robbins,stephen58@gmail.com,Samoa,917.0,Electronics,Camera,3.0,767.75,2303.25,West
+208.0,2025-03-25,4902.0,Kenneth Meyer,ryancurry@anderson-garcia.biz,Ireland,922.0,Beauty,Nail Polish,7.0,146.1,1022.7,East
+209.0,2024-08-14,4804.0,Jenna Robinson,tolson@brown.com,Venezuela,862.0,Clothing,Socks,2.0,141.64,283.28,West
+210.0,2024-08-05,2020.0,Melanie Gonzalez,amber03@hotmail.com,Montserrat,787.0,Electronics,Monitor,8.0,866.87,6934.96,East
+211.0,2024-11-22,2610.0,Krista Sampson,bonnie76@michael.info,Jamaica,959.0,Beauty,Shampoo,2.0,830.35,1660.7,West
+212.0,2025-01-01,1604.0,Tammy Miles,jamesjones@white.com,Chile,536.0,Beauty,Lotion,10.0,739.16,7391.6,North
+213.0,2023-09-20,9001.0,Diane Lawrence,qcook@stewart.biz,Turks and Caicos Islands,762.0,Clothing,Jacket,6.0,410.0,2460.0,South
+214.0,2024-06-15,5909.0,Sharon Ramos,muellerduane@yahoo.com,Angola,836.0,Sports,Basketball,9.0,309.14,2782.26,East
+215.0,2024-02-21,3780.0,Jesse Michael,emily63@hotmail.com,Morocco,520.0,Sports,Tennis Racket,7.0,946.33,6624.31,East
+216.0,2024-07-16,2974.0,Raymond Sweeney,hjohnson@yahoo.com,El Salvador,517.0,Electronics,Smartphone,9.0,225.33,2027.97,South
+217.0,2024-03-13,4148.0,Gary Torres,greyes@johnson-donovan.com,Malawi,794.0,Clothing,T-Shirt,4.0,50.0,200.0,West
+218.0,2023-10-31,1420.0,Hayley Fox,danaryan@jimenez.com,Faroe Islands,635.0,Electronics,Headphones,8.0,178.04,1424.32,East
+219.0,2024-06-14,8222.0,Christopher Benton,kperkins@wright.com,Benin,986.0,Electronics,Monitor,9.0,796.08,7164.72,West
+220.0,2024-08-22,3226.0,Ryan Finley,cwhite@smith.com,Luxembourg,766.0,Beauty,Makeup,2.0,578.55,1157.1,East
+221.0,2024-05-01,9594.0,Miss Alexandra Scott,michaeljones@perez.com,Netherlands,643.0,Clothing,Socks,4.0,380.92,1523.68,South
+222.0,2025-03-27,2278.0,Andrea Sandoval,catherine75@mcdonald.com,Hong Kong,959.0,Clothing,Jeans,5.0,506.44,2532.2,South
+223.0,2023-11-30,3258.0,Reginald Middleton,wfletcher@gmail.com,South Georgia and the South Sandwich Islands,501.0,Beauty,Lotion,10.0,236.94,2369.4,South
+224.0,2023-08-18,6274.0,Daniel Madden,qgarza@flowers.net,Armenia,916.0,Furniture,Bed,3.0,871.66,2614.98,South
+225.0,2023-11-27,2746.0,Jesse Krause,cookkimberly@yahoo.com,Lesotho,611.0,Electronics,Smartphone,7.0,673.21,4712.47,East
+226.0,2024-12-11,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,685.0,Clothing,Shoes,3.0,222.06,666.18,West
+227.0,2024-11-02,8046.0,Claire Hobbs,aprilboyd@yahoo.com,Italy,760.0,Beauty,Perfume,2.0,749.81,1499.62,East
+228.0,2024-07-30,1349.0,Holly Jones,yrangel@yahoo.com,Solomon Islands,834.0,Sports,Treadmill,4.0,281.84,1127.36,North
+229.0,2024-01-24,9951.0,Mikayla Garrett,ymoran@yahoo.com,Venezuela,527.0,Beauty,Nail Polish,4.0,804.66,3218.64,South
+230.0,2023-09-26,9991.0,Tyler Chapman,jasonsmith@yahoo.com,Afghanistan,509.0,Sports,Treadmill,5.0,627.46,3137.3,South
+231.0,2023-11-10,3780.0,Jesse Michael,emily63@hotmail.com,Morocco,876.0,Sports,Basketball,7.0,235.27,1646.89,North
+232.0,2024-02-15,1349.0,Holly Jones,yrangel@yahoo.com,Solomon Islands,531.0,Furniture,Chair,7.0,574.52,4021.64,West
+233.0,2024-02-22,5427.0,Jack Hoover,wardkelly@hotmail.com,Malaysia,750.0,Beauty,Shampoo,8.0,674.49,5395.92,East
+235.0,2025-06-21,9991.0,Tyler Chapman,jasonsmith@yahoo.com,Afghanistan,910.0,Beauty,Perfume,7.0,978.31,6848.17,South
+236.0,2024-08-28,8255.0,Michelle Fields,yrobinson@black.biz,Isle of Man,644.0,Clothing,T-Shirt,7.0,340.77,2385.39,West
+237.0,2025-04-16,5017.0,James Henderson,sanderstina@valdez.biz,Monaco,909.0,Beauty,Nail Polish,1.0,940.27,940.27,East
+238.0,2024-11-03,9420.0,Brianna Yoder,holly82@clark.com,Latvia,753.0,Beauty,Makeup,7.0,255.61,1789.27,East
+239.0,2023-10-23,6625.0,Jonathan Evans,cbarnes@thomas.com,Wallis and Futuna,666.0,Beauty,Perfume,2.0,704.12,1408.24,West
+242.0,2025-01-25,7890.0,Whitney Stewart,jonathan28@meadows.com,Barbados,619.0,Beauty,Perfume,10.0,139.46,1394.6,North
+243.0,2024-06-02,4989.0,Ann Lara,kristenstone@yahoo.com,Bosnia and Herzegovina,500.0,Beauty,Nail Polish,6.0,318.96,1913.76,East
+244.0,2023-10-05,8222.0,Christopher Benton,kperkins@wright.com,Benin,651.0,Furniture,Bed,5.0,80.58,402.9,South
+245.0,2024-05-17,6093.0,Ashley Russo,johnsmith@hotmail.com,Liberia,787.0,Furniture,Table,4.0,764.81,3059.24,West
+246.0,2024-08-20,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,930.0,Electronics,Smartphone,3.0,529.41,1588.23,North
+247.0,2024-10-09,2746.0,Jesse Krause,cookkimberly@yahoo.com,Lesotho,849.0,Furniture,Desk,10.0,479.15,4791.5,North
+248.0,2024-09-08,5043.0,Cheryl Young,jmoreno@morales.info,Belgium,884.0,Beauty,Lotion,9.0,567.22,5104.98,South
+249.0,2024-03-29,5048.0,Frank Chandler,tammyhoover@bender-ferguson.biz,Mayotte,523.0,Furniture,Chair,2.0,225.23,450.46,South
+250.0,2024-12-28,2554.0,Anthony Reese,bradleycampbell@gmail.com,Timor-Leste,791.0,Sports,Football,8.0,580.96,4647.68,South
+251.0,2024-01-29,1420.0,Hayley Fox,danaryan@jimenez.com,Faroe Islands,568.0,Clothing,T-Shirt,1.0,692.81,692.81,East
+252.0,2023-09-30,4603.0,Martin Brown,bennettjoseph@hotmail.com,Finland,720.0,Beauty,Shampoo,9.0,906.01,8154.09,West
+253.0,2025-01-27,1419.0,Brittany Robinson,hayesedward@yahoo.com,Barbados,749.0,Sports,Bicycle,8.0,363.84,2910.72,West
+254.0,2025-03-26,7766.0,Anthony Houston,zparsons@gmail.com,Marshall Islands,611.0,Clothing,Shoes,3.0,223.06,669.18,East
+255.0,2024-09-23,3607.0,Jonathan Wood,brownkimberly@hotmail.com,Djibouti,596.0,Beauty,Lotion,9.0,374.68,3372.12,West
+256.0,2024-05-07,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,931.0,Clothing,Jacket,1.0,133.47,133.47,North
+257.0,2024-10-15,2501.0,Beverly Estes,nmoore@gmail.com,Mauritania,750.0,Beauty,Perfume,10.0,391.69,3916.9,South
+258.0,2025-02-23,8222.0,Christopher Benton,kperkins@wright.com,Benin,566.0,Beauty,Shampoo,8.0,832.7,6661.6,West
+259.0,2024-12-26,8352.0,Adam Burns,michael72@hotmail.com,Nigeria,832.0,Electronics,Camera,1.0,238.79,238.79,West
+261.0,2023-11-22,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,910.0,Furniture,Couch,8.0,710.61,5684.88,West
+262.0,2025-04-18,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,945.0,Sports,Treadmill,3.0,768.92,2306.76,North
+263.0,2024-08-15,6624.0,Tammy Stewart,dgay@peterson.com,Bhutan,504.0,Sports,Basketball,1.0,845.16,845.16,West
+264.0,2025-04-16,2278.0,Andrea Sandoval,catherine75@mcdonald.com,Hong Kong,699.0,Sports,Basketball,3.0,896.97,2690.91,East
+265.0,2025-06-14,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,926.0,Clothing,T-Shirt,4.0,120.23,480.92,East
+266.0,2024-03-27,6695.0,David Russo,ruth23@shannon.com,Saint Barthelemy,508.0,Sports,Basketball,7.0,411.45,2880.15,North
+267.0,2024-10-28,7856.0,Theresa Garcia,johnsonkristina@gmail.com,Saint Barthelemy,624.0,Electronics,Monitor,6.0,353.38,2120.28,North
+268.0,2025-02-24,5819.0,Thomas Morgan,cking@hernandez.com,Sudan,715.0,Sports,Tennis Racket,5.0,803.58,4017.9,North
+269.0,2024-08-16,2978.0,Savannah Shah,christian27@hotmail.com,Saint Kitts and Nevis,874.0,Clothing,Jacket,1.0,69.89,69.89,East
+270.0,2024-09-07,2681.0,Rhonda Dunn,bishoplawrence@alvarado-turner.biz,Aruba,876.0,Furniture,Desk,5.0,930.92,4654.6,West
+271.0,2024-01-27,6695.0,David Russo,ruth23@shannon.com,Saint Barthelemy,750.0,Furniture,Desk,2.0,841.27,1682.54,North
+272.0,2024-04-15,2486.0,Scott Greene,wconrad@hotmail.com,United States of America,698.0,Clothing,Shoes,5.0,736.2,3681.0,South
+273.0,2025-02-27,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,984.0,Sports,Football,9.0,336.54,3028.86,West
+274.0,2024-02-08,2278.0,Andrea Sandoval,catherine75@mcdonald.com,Hong Kong,822.0,Beauty,Perfume,8.0,336.98,2695.84,South
+275.0,2023-08-13,2978.0,Savannah Shah,christian27@hotmail.com,Saint Kitts and Nevis,884.0,Sports,Tennis Racket,9.0,229.17,2062.53,East
+276.0,2024-10-24,7417.0,Nicole Moses,austinerin@hotmail.com,Sweden,797.0,Sports,Basketball,10.0,585.22,5852.2,West
+277.0,2023-12-30,9703.0,Jeremy Baker,andrew88@brown-ortiz.com,Cuba,624.0,Beauty,Shampoo,5.0,282.41,1412.05,North
+278.0,2024-09-26,9420.0,Brianna Yoder,holly82@clark.com,Latvia,843.0,Beauty,Perfume,3.0,331.31,993.93,North
+279.0,2023-08-05,7870.0,Christopher Curtis,nspencer@gmail.com,Oman,873.0,Beauty,Nail Polish,5.0,575.74,2878.7,South
+280.0,2024-02-28,6274.0,Daniel Madden,qgarza@flowers.net,Armenia,892.0,Sports,Bicycle,10.0,421.08,4210.8,North
+281.0,2025-01-21,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,954.0,Sports,Basketball,1.0,843.76,843.76,South
+282.0,2024-02-26,3927.0,Tracy Castillo,kgallegos@rodriguez.com,Sudan,808.0,Beauty,Makeup,10.0,956.31,9563.1,South
+283.0,2024-05-19,3229.0,Victor Vazquez,michaelscott@robertson-wilkins.biz,Australia,961.0,Electronics,Laptop,2.0,160.4,320.8,South
+284.0,2024-06-27,5684.0,Dennis Mack,hannahfriedman@jacobs.biz,Tonga,743.0,Clothing,Shoes,2.0,666.05,1332.1,South
+285.0,2024-02-10,9991.0,Tyler Chapman,jasonsmith@yahoo.com,Afghanistan,606.0,Furniture,Chair,1.0,79.09,79.09,East
+286.0,2024-06-08,2884.0,Lorraine Kim,morgandeborah@hotmail.com,Venezuela,823.0,Clothing,Socks,10.0,838.8,8388.0,East
+287.0,2024-11-19,2377.0,Heather Smith,kingeric@whitney.net,Burkina Faso,679.0,Clothing,T-Shirt,9.0,63.71,573.39,North
+288.0,2024-07-21,7766.0,Anthony Houston,zparsons@gmail.com,Marshall Islands,507.0,Clothing,Jacket,2.0,91.98,183.96,South
+289.0,2024-06-14,6093.0,Ashley Russo,johnsmith@hotmail.com,Liberia,901.0,Electronics,Smartphone,9.0,842.56,7583.04,North
+290.0,2023-11-12,6654.0,Brian Mccarthy,pstout@duncan.com,Anguilla,628.0,Electronics,Monitor,5.0,86.98,434.9,West
+291.0,2023-09-17,5909.0,Sharon Ramos,muellerduane@yahoo.com,Angola,999.0,Clothing,Jacket,1.0,654.31,654.31,North
+292.0,2025-04-27,8757.0,Michael Mendoza,edward26@gmail.com,Estonia,724.0,Furniture,Desk,5.0,385.13,1925.65,West
+293.0,2023-09-10,9420.0,Brianna Yoder,holly82@clark.com,Latvia,631.0,Sports,Bicycle,1.0,515.57,515.57,East
+294.0,2024-11-18,2599.0,Benjamin Hart,michelle12@hotmail.com,Saudi Arabia,926.0,Furniture,Couch,10.0,664.13,6641.3,East
+295.0,2023-10-05,5819.0,Thomas Morgan,cking@hernandez.com,Sudan,766.0,Beauty,Nail Polish,4.0,682.2,2728.8,East
+296.0,2024-05-20,5323.0,Elizabeth Woodard,iparker@graham.com,Indonesia,614.0,Furniture,Table,5.0,716.71,3583.55,East
+297.0,2024-11-11,3335.0,Justin Ellis,amybentley@keith.biz,Estonia,566.0,Beauty,Nail Polish,3.0,162.87,488.61,West
+298.0,2023-10-13,3835.0,Dennis Harris,vwalton@hensley.com,Saint Pierre and Miquelon,949.0,Sports,Bicycle,6.0,645.24,3871.44,North
+299.0,2024-05-27,4082.0,Rachael Lawson,melissa79@king-nelson.com,Bosnia and Herzegovina,997.0,Furniture,Chair,4.0,458.44,1833.76,West
+300.0,2025-06-11,9594.0,Miss Alexandra Scott,michaeljones@perez.com,Netherlands,849.0,Beauty,Lotion,9.0,667.94,6011.46,West
+301.0,2024-08-06,9035.0,Nathaniel Long,perrychristy@miller-bryant.com,Macedonia,622.0,Beauty,Shampoo,7.0,954.62,6682.34,North
+302.0,2025-03-24,3607.0,Jonathan Wood,brownkimberly@hotmail.com,Djibouti,701.0,Electronics,Camera,2.0,203.18,406.36,East
+303.0,2024-07-03,5043.0,Cheryl Young,jmoreno@morales.info,Belgium,646.0,Furniture,Bed,4.0,323.17,1292.68,West
+304.0,2024-01-14,5819.0,Thomas Morgan,cking@hernandez.com,Sudan,588.0,Furniture,Desk,7.0,560.37,3922.59,West
+305.0,2023-12-23,2918.0,Christopher Scott,vsmith@banks.com,Gibraltar,898.0,Electronics,Laptop,5.0,980.73,4903.65,North
+306.0,2023-08-14,3477.0,Linda Lopez,laneapril@yahoo.com,Svalbard & Jan Mayen Islands,837.0,Sports,Basketball,3.0,250.91,752.73,South
+307.0,2023-10-30,5909.0,Sharon Ramos,muellerduane@yahoo.com,Angola,816.0,Beauty,Makeup,4.0,78.7,314.8,South
+308.0,2024-04-25,7351.0,Joshua Rojas,joneserica@smith-guzman.com,Lebanon,546.0,Sports,Bicycle,8.0,598.71,4789.68,South
+309.0,2024-02-18,9887.0,Arthur Cortez,denise15@yahoo.com,French Polynesia,822.0,Clothing,Socks,2.0,976.07,1952.14,West
+310.0,2024-11-19,8379.0,David Kelley,bthomas@rios-lawson.com,Guinea,954.0,Clothing,Jacket,10.0,541.62,5416.2,North
+311.0,2024-01-31,7295.0,Michael Johnson,wrightlaura@harris.biz,Eritrea,647.0,Sports,Bicycle,10.0,533.2,5332.0,West
+312.0,2025-04-14,6282.0,Kathryn Henry,kaitlynbryan@campbell-garcia.com,Niue,842.0,Electronics,Headphones,8.0,648.37,5186.96,West
+313.0,2024-06-01,1440.0,Miguel Johnson,taraward@gmail.com,Estonia,718.0,Clothing,T-Shirt,1.0,32.32,32.32,South
+314.0,2024-09-17,8604.0,Timothy Henson,sarah52@reed.org,Mayotte,609.0,Clothing,Socks,2.0,313.87,627.74,West
+315.0,2024-11-02,1161.0,Juan Montoya,shawndixon@brooks-taylor.com,Egypt,879.0,Beauty,Shampoo,9.0,233.62,2102.58,East
+316.0,2024-03-23,9107.0,Jason Miller,catherineperry@contreras.com,Palau,657.0,Clothing,Jacket,7.0,946.89,6628.23,East
+317.0,2024-01-17,2278.0,Andrea Sandoval,catherine75@mcdonald.com,Hong Kong,598.0,Sports,Tennis Racket,10.0,704.78,7047.8,North
+318.0,2025-01-03,3976.0,Leslie Torres,hrocha@gmail.com,Niger,528.0,Clothing,Shoes,9.0,222.82,2005.38,South
+319.0,2024-09-21,3659.0,Tanya Franklin,williamsedwin@hotmail.com,Peru,730.0,Clothing,Jacket,2.0,456.81,913.62,South
+320.0,2025-05-11,2020.0,Melanie Gonzalez,amber03@hotmail.com,Montserrat,976.0,Beauty,Shampoo,9.0,540.29,4862.61,North
+321.0,2024-03-20,7870.0,Christopher Curtis,nspencer@gmail.com,Oman,849.0,Beauty,Makeup,8.0,170.87,1366.96,South
+322.0,2024-12-07,5427.0,Jack Hoover,wardkelly@hotmail.com,Malaysia,852.0,Sports,Football,10.0,104.94,1049.4,South
+324.0,2023-12-03,8341.0,Nathaniel Johns,francisco29@ward.info,Macedonia,623.0,Electronics,Headphones,9.0,853.84,7684.56,South
+325.0,2023-07-31,7351.0,Joshua Rojas,joneserica@smith-guzman.com,Lebanon,574.0,Furniture,Chair,6.0,958.29,5749.74,East
+326.0,2024-09-17,6625.0,Jonathan Evans,cbarnes@thomas.com,Wallis and Futuna,784.0,Beauty,Perfume,9.0,144.03,1296.27,North
+328.0,2024-05-12,2672.0,Annette Phillips,aaron27@yahoo.com,Guadeloupe,797.0,Clothing,Jeans,1.0,542.29,542.29,West
+329.0,2024-01-16,9388.0,Cheryl Stone,julie67@harris.com,Slovakia (Slovak Republic),553.0,Electronics,Smartphone,2.0,807.28,1614.56,North
+330.0,2025-02-23,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,590.0,Furniture,Bed,8.0,934.47,7475.76,West
+331.0,2024-10-27,3229.0,Victor Vazquez,michaelscott@robertson-wilkins.biz,Australia,565.0,Beauty,Perfume,5.0,364.85,1824.25,South
+332.0,2025-03-28,2924.0,Amanda Hayden,leonard92@hotmail.com,Jersey,762.0,Sports,Bicycle,10.0,584.14,5841.4,North
+333.0,2023-08-07,9451.0,Ashley Williams,aliciagreen@hartman.com,Uzbekistan,554.0,Sports,Treadmill,6.0,499.25,2995.5,North
+334.0,2023-10-18,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,898.0,Clothing,T-Shirt,2.0,580.29,1160.58,East
+335.0,2024-12-22,9233.0,Justin Burgess,vnelson@roberts-murray.com,Israel,747.0,Clothing,T-Shirt,1.0,305.41,305.41,North
+336.0,2025-01-17,7494.0,Christopher Leon,margaretburnett@rivera.com,New Zealand,682.0,Electronics,Laptop,9.0,80.8,727.2,West
+337.0,2025-05-13,2377.0,Heather Smith,kingeric@whitney.net,Burkina Faso,810.0,Sports,Basketball,3.0,781.13,2343.39,East
+338.0,2024-03-09,5996.0,Jessica Kelly,brandy96@watson.com,Turkmenistan,746.0,Beauty,Makeup,2.0,631.3,1262.6,East
+339.0,2024-03-13,9404.0,Mrs. Tricia Newton MD,jessicaschultz@gmail.com,Vanuatu,753.0,Electronics,Headphones,5.0,47.99,239.95,East
+340.0,2023-09-12,2672.0,Annette Phillips,aaron27@yahoo.com,Guadeloupe,511.0,Furniture,Table,5.0,198.49,992.45,North
+341.0,2024-02-25,5285.0,Joshua Stephens,lisa09@hotmail.com,Korea,531.0,Clothing,Socks,7.0,331.03,2317.21,South
+342.0,2024-04-18,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,966.0,Sports,Football,10.0,143.32,1433.2,North
+343.0,2023-08-22,5493.0,Calvin Jimenez,carladams@lowe.com,Gabon,593.0,Furniture,Desk,6.0,609.79,3658.74,West
+344.0,2025-03-17,5061.0,Dennis Carey,bailey62@yahoo.com,Norfolk Island,978.0,Clothing,Socks,10.0,274.18,2741.8,East
+345.0,2025-04-27,8341.0,Nathaniel Johns,francisco29@ward.info,Macedonia,688.0,Beauty,Shampoo,7.0,835.62,5849.34,South
+346.0,2025-05-11,9938.0,William Rivera,randolphkathryn@curtis.biz,Mongolia,602.0,Electronics,Laptop,10.0,780.91,7809.1,North
+347.0,2025-02-25,2746.0,Jesse Krause,cookkimberly@yahoo.com,Lesotho,793.0,Electronics,Smartphone,9.0,849.21,7642.89,South
+348.0,2024-06-23,2305.0,Robert Hill,riverskathleen@yahoo.com,Italy,580.0,Sports,Tennis Racket,2.0,959.29,1918.58,West
+349.0,2025-01-01,9991.0,Tyler Chapman,jasonsmith@yahoo.com,Afghanistan,895.0,Clothing,T-Shirt,4.0,304.43,1217.72,South
+350.0,2024-01-16,1008.0,Nicholas Barnes,taylorrobert@gmail.com,United Arab Emirates,542.0,Clothing,Jacket,10.0,249.81,2498.1,West
+351.0,2023-10-14,5323.0,Elizabeth Woodard,iparker@graham.com,Indonesia,868.0,Beauty,Nail Polish,6.0,917.27,5503.62,West
+352.0,2023-11-23,1405.0,Tracey Robbins,stephen58@gmail.com,Samoa,799.0,Clothing,Jeans,6.0,849.64,5097.84,North
+353.0,2025-03-23,8433.0,Jacob Norris,mariachang@nguyen.com,South Georgia and the South Sandwich Islands,630.0,Clothing,Jacket,5.0,962.18,4810.9,East
+354.0,2024-05-07,3659.0,Tanya Franklin,williamsedwin@hotmail.com,Peru,747.0,Clothing,T-Shirt,8.0,768.7,6149.6,West
+355.0,2023-12-31,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,756.0,Electronics,Laptop,10.0,797.19,7971.9,South
+356.0,2023-11-02,2734.0,Erica Brown,webermolly@gilmore-andrews.net,Libyan Arab Jamahiriya,661.0,Sports,Basketball,5.0,257.1,1285.5,West
+357.0,2023-09-26,1460.0,Jenny Diaz,robinsonkayla@hotmail.com,Mayotte,576.0,Electronics,Monitor,5.0,790.35,3951.75,South
+358.0,2023-10-20,2486.0,Scott Greene,wconrad@hotmail.com,United States of America,807.0,Sports,Tennis Racket,2.0,633.65,1267.3,West
+359.0,2025-02-25,1792.0,Patrick Brown,janekelley@hotmail.com,French Southern Territories,681.0,Beauty,Nail Polish,6.0,225.96,1355.76,South
+360.0,2024-02-11,4307.0,Matthew Espinoza,rodriguezbrandon@garcia.com,Zimbabwe,559.0,Furniture,Table,7.0,46.73,327.11,West
+361.0,2023-12-27,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,702.0,Electronics,Monitor,3.0,637.94,1913.82,West
+362.0,2024-05-06,6891.0,Mark West,patricia36@steele.com,Japan,924.0,Beauty,Perfume,9.0,71.5,643.5,West
+363.0,2025-02-21,6357.0,Kylie Mclaughlin,hurstkaren@anderson.com,Wallis and Futuna,720.0,Sports,Bicycle,4.0,902.92,3611.68,South
+364.0,2023-07-24,2486.0,Scott Greene,wconrad@hotmail.com,United States of America,776.0,Clothing,Jacket,9.0,631.51,5683.59,North
+365.0,2024-10-07,9887.0,Arthur Cortez,denise15@yahoo.com,French Polynesia,577.0,Sports,Football,9.0,915.75,8241.75,North
+366.0,2025-05-18,5493.0,Calvin Jimenez,carladams@lowe.com,Gabon,741.0,Clothing,Socks,9.0,973.52,8761.68,South
+367.0,2024-10-09,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,883.0,Clothing,T-Shirt,10.0,96.58,965.8,South
+368.0,2025-05-29,8341.0,Nathaniel Johns,francisco29@ward.info,Macedonia,680.0,Clothing,Jeans,2.0,977.99,1955.98,East
+369.0,2025-05-18,6624.0,Tammy Stewart,dgay@peterson.com,Bhutan,613.0,Furniture,Table,1.0,457.31,457.31,South
+370.0,2024-04-11,5625.0,Kenneth Hill,ana64@yahoo.com,Micronesia,662.0,Beauty,Lotion,10.0,732.62,7326.2,East
+371.0,2024-10-04,8386.0,Ronnie Wells,michelle25@gmail.com,Faroe Islands,841.0,Electronics,Laptop,5.0,777.43,3887.15,North
+372.0,2024-07-07,3258.0,Reginald Middleton,wfletcher@gmail.com,South Georgia and the South Sandwich Islands,802.0,Furniture,Couch,7.0,123.38,863.66,North
+373.0,2024-04-28,6989.0,Ronald Stewart,simonbrianna@schmidt.com,Yemen,806.0,Clothing,Socks,7.0,119.6,837.2,South
+374.0,2024-07-20,8213.0,Jacob Henry,emilysolomon@young.com,Philippines,522.0,Clothing,Jacket,8.0,99.25,794.0,West
+376.0,2024-11-18,6883.0,Tamara Perez,jacksonjames@gmail.com,Nigeria,633.0,Furniture,Table,3.0,257.68,773.04,North
+377.0,2024-09-03,6989.0,Ronald Stewart,simonbrianna@schmidt.com,Yemen,597.0,Sports,Bicycle,3.0,617.08,1851.24,South
+379.0,2023-12-28,9420.0,Brianna Yoder,holly82@clark.com,Latvia,984.0,Furniture,Table,7.0,401.11,2807.77,South
+380.0,2024-12-24,1355.0,Lindsey Peterson,james86@baldwin-pope.org,Saint Kitts and Nevis,695.0,Electronics,Monitor,1.0,558.31,558.31,South
+381.0,2024-09-02,6654.0,Brian Mccarthy,pstout@duncan.com,Anguilla,514.0,Furniture,Couch,2.0,807.33,1614.66,East
+382.0,2023-10-28,7766.0,Anthony Houston,zparsons@gmail.com,Marshall Islands,943.0,Electronics,Monitor,2.0,557.19,1114.38,North
+383.0,2024-03-28,8384.0,Todd Baker,lori50@figueroa.info,Rwanda,577.0,Furniture,Couch,6.0,750.2,4501.2,South
+384.0,2024-03-04,2978.0,Savannah Shah,christian27@hotmail.com,Saint Kitts and Nevis,691.0,Furniture,Table,6.0,303.8,1822.8,West
+385.0,2024-09-19,1405.0,Tracey Robbins,stephen58@gmail.com,Samoa,544.0,Furniture,Desk,1.0,196.75,196.75,West
+386.0,2025-06-08,3193.0,Kevin Jenkins,zmontgomery@miller-carr.com,Taiwan,560.0,Beauty,Makeup,8.0,967.14,7737.12,South
+387.0,2025-02-06,7538.0,Michael Brooks,garciakristin@miller.org,Belize,533.0,Clothing,Socks,9.0,670.6,6035.4,East
+388.0,2024-11-14,9001.0,Diane Lawrence,qcook@stewart.biz,Turks and Caicos Islands,588.0,Clothing,Shoes,8.0,412.19,3297.52,North
+389.0,2023-08-13,6282.0,Kathryn Henry,kaitlynbryan@campbell-garcia.com,Niue,587.0,Sports,Basketball,1.0,604.49,604.49,West
+390.0,2024-06-07,9684.0,David Perry,lwalsh@davis-austin.com,Liechtenstein,506.0,Beauty,Shampoo,4.0,236.75,947.0,East
+391.0,2024-01-18,8305.0,Wayne Stokes,brendaclark@castillo-delgado.com,Mali,938.0,Clothing,T-Shirt,6.0,381.68,2290.08,North
+392.0,2024-03-18,3659.0,Tanya Franklin,williamsedwin@hotmail.com,Peru,877.0,Clothing,Jacket,3.0,624.1,1872.3,West
+393.0,2025-05-06,2599.0,Benjamin Hart,michelle12@hotmail.com,Saudi Arabia,517.0,Sports,Football,10.0,233.16,2331.6,South
+394.0,2025-03-09,3767.0,Monica Ortega,uprince@flowers.biz,American Samoa,531.0,Furniture,Bed,6.0,848.67,5092.02,East
+395.0,2025-04-25,9583.0,David Farley,mirandapeterson@fisher.info,Afghanistan,991.0,Furniture,Bed,9.0,470.28,4232.52,West
+396.0,2023-12-17,7143.0,Timothy French,allenglass@rodriguez.com,Ireland,731.0,Sports,Treadmill,10.0,972.7,9727.0,North
+397.0,2025-01-30,7143.0,Timothy French,allenglass@rodriguez.com,Ireland,517.0,Furniture,Table,9.0,994.51,8950.59,West
+398.0,2024-04-10,4664.0,Eric Olson,barreraashley@white-stone.org,Belize,660.0,Clothing,T-Shirt,8.0,746.48,5971.84,South
+399.0,2024-11-09,2132.0,Alicia Cannon,qbrown@decker.org,Pitcairn Islands,560.0,Sports,Tennis Racket,3.0,155.54,466.62,East
+400.0,2024-03-29,7890.0,Whitney Stewart,jonathan28@meadows.com,Barbados,619.0,Clothing,Jeans,9.0,802.38,7221.42,North
+401.0,2024-06-30,4319.0,Fred Hanson,hunttodd@taylor.org,Hungary,958.0,Clothing,T-Shirt,9.0,686.35,6177.15,North
+402.0,2024-05-07,5427.0,Jack Hoover,wardkelly@hotmail.com,Malaysia,829.0,Clothing,Socks,10.0,428.47,4284.7,West
+403.0,2024-07-18,4550.0,Christina Rodriguez,stevenslacey@yahoo.com,Albania,998.0,Beauty,Perfume,4.0,976.64,3906.56,North
+404.0,2024-02-18,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,802.0,Clothing,Jacket,6.0,486.98,2921.88,West
+405.0,2024-12-13,1420.0,Hayley Fox,danaryan@jimenez.com,Faroe Islands,909.0,Beauty,Makeup,7.0,190.4,1332.8,East
+406.0,2023-11-30,7856.0,Theresa Garcia,johnsonkristina@gmail.com,Saint Barthelemy,621.0,Furniture,Table,8.0,877.89,7023.12,East
+407.0,2024-12-24,2599.0,Benjamin Hart,michelle12@hotmail.com,Saudi Arabia,800.0,Sports,Basketball,6.0,642.04,3852.24,West
+408.0,2023-08-02,2498.0,Kristin Villegas,coreycannon@rhodes-valenzuela.com,Canada,642.0,Sports,Basketball,3.0,502.0,1506.0,East
+409.0,2024-10-28,8255.0,Michelle Fields,yrobinson@black.biz,Isle of Man,648.0,Furniture,Bed,3.0,986.3,2958.9,West
+410.0,2024-05-08,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,651.0,Sports,Treadmill,3.0,971.83,2915.49,West
+411.0,2024-09-04,5458.0,Michael Waller,meganjones@watkins.com,India,728.0,Clothing,Jacket,6.0,185.01,1110.06,East
+412.0,2025-01-14,4800.0,Michael Pugh PhD,evan30@turner-lopez.org,Belgium,869.0,Clothing,Jeans,2.0,339.67,679.34,East
+413.0,2024-04-24,4211.0,Rachael Woods,washingtonsarah@yahoo.com,Sri Lanka,702.0,Sports,Basketball,7.0,371.46,2600.22,East
+414.0,2024-03-26,8882.0,Samuel Brown,lisa41@guerra.com,Myanmar,595.0,Electronics,Monitor,10.0,363.77,3637.7,South
+415.0,2024-05-21,2231.0,Laurie Wise,alexis07@garcia-brown.com,Cook Islands,749.0,Beauty,Lotion,7.0,703.91,4927.37,South
+416.0,2024-10-25,2918.0,Christopher Scott,vsmith@banks.com,Gibraltar,877.0,Sports,Basketball,2.0,743.19,1486.38,North
+417.0,2024-05-30,4804.0,Jenna Robinson,tolson@brown.com,Venezuela,680.0,Beauty,Perfume,2.0,162.24,324.48,East
+418.0,2025-01-30,3193.0,Kevin Jenkins,zmontgomery@miller-carr.com,Taiwan,703.0,Clothing,Jeans,10.0,554.54,5545.4,South
+420.0,2024-05-03,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,819.0,Sports,Football,5.0,706.54,3532.7,South
+421.0,2024-07-15,3640.0,Pamela Allen,djones@yahoo.com,Iceland,658.0,Electronics,Laptop,10.0,197.45,1974.5,North
+422.0,2023-11-21,5684.0,Dennis Mack,hannahfriedman@jacobs.biz,Tonga,556.0,Beauty,Makeup,1.0,268.83,268.83,East
+423.0,2023-08-18,2554.0,Anthony Reese,bradleycampbell@gmail.com,Timor-Leste,995.0,Clothing,Shoes,8.0,341.9,2735.2,North
+424.0,2024-04-11,4501.0,Savannah Ross,smithsamuel@wood.com,Pitcairn Islands,682.0,Electronics,Smartphone,1.0,332.86,332.86,North
+425.0,2024-12-11,7143.0,Timothy French,allenglass@rodriguez.com,Ireland,837.0,Furniture,Desk,4.0,297.05,1188.2,West
+426.0,2023-12-26,2486.0,Scott Greene,wconrad@hotmail.com,United States of America,701.0,Furniture,Table,3.0,265.81,797.43,North
+427.0,2023-12-21,6282.0,Kathryn Henry,kaitlynbryan@campbell-garcia.com,Niue,577.0,Beauty,Makeup,7.0,802.84,5619.88,South
+428.0,2025-01-28,9684.0,David Perry,lwalsh@davis-austin.com,Liechtenstein,604.0,Clothing,Shoes,6.0,762.05,4572.3,West
+429.0,2023-11-07,6590.0,Dawn Garza,stephen37@matthews.com,Palau,846.0,Clothing,Shoes,10.0,172.54,1725.4,North
+430.0,2024-02-15,6654.0,Brian Mccarthy,pstout@duncan.com,Anguilla,756.0,Clothing,Jacket,9.0,866.1,7794.9,North
+431.0,2024-10-06,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,574.0,Beauty,Shampoo,3.0,671.49,2014.47,West
+433.0,2024-09-17,5017.0,James Henderson,sanderstina@valdez.biz,Monaco,594.0,Beauty,Perfume,3.0,776.89,2330.67,North
+434.0,2024-11-16,5698.0,Thomas Robinson,agallagher@gmail.com,Belize,714.0,Sports,Bicycle,7.0,27.49,192.43,South
+435.0,2025-04-23,7870.0,Christopher Curtis,nspencer@gmail.com,Oman,809.0,Clothing,Shoes,3.0,908.16,2724.48,South
+436.0,2024-04-18,8757.0,Michael Mendoza,edward26@gmail.com,Estonia,958.0,Furniture,Chair,6.0,528.91,3173.46,West
+438.0,2023-11-24,6989.0,Ronald Stewart,simonbrianna@schmidt.com,Yemen,966.0,Beauty,Perfume,2.0,761.78,1523.56,West
+439.0,2024-10-30,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,757.0,Furniture,Bed,5.0,143.57,717.85,West
+440.0,2024-08-21,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,895.0,Sports,Football,1.0,57.17,57.17,East
+441.0,2024-10-30,2231.0,Laurie Wise,alexis07@garcia-brown.com,Cook Islands,746.0,Beauty,Shampoo,8.0,601.05,4808.4,North
+442.0,2025-05-03,9233.0,Justin Burgess,vnelson@roberts-murray.com,Israel,538.0,Beauty,Shampoo,3.0,612.71,1838.13,North
+443.0,2025-02-04,4804.0,Jenna Robinson,tolson@brown.com,Venezuela,914.0,Furniture,Desk,1.0,678.23,678.23,South
+444.0,2025-02-03,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,607.0,Electronics,Smartphone,4.0,178.73,714.92,North
+445.0,2024-08-12,6989.0,Ronald Stewart,simonbrianna@schmidt.com,Yemen,754.0,Furniture,Bed,2.0,741.48,1482.96,East
+446.0,2025-02-21,1349.0,Holly Jones,yrangel@yahoo.com,Solomon Islands,646.0,Clothing,Shoes,10.0,324.12,3241.2,East
+447.0,2025-06-11,8046.0,Claire Hobbs,aprilboyd@yahoo.com,Italy,566.0,Clothing,Jacket,3.0,495.25,1485.75,West
+448.0,2023-10-02,1420.0,Hayley Fox,danaryan@jimenez.com,Faroe Islands,795.0,Beauty,Lotion,2.0,301.62,603.24,South
+449.0,2025-01-03,5808.0,Susan Powers,everettstephen@smith.com,Iceland,874.0,Electronics,Laptop,2.0,465.78,931.56,North
+450.0,2025-04-02,2554.0,Anthony Reese,bradleycampbell@gmail.com,Timor-Leste,641.0,Sports,Bicycle,9.0,560.17,5041.53,North
+451.0,2025-06-22,4501.0,Savannah Ross,smithsamuel@wood.com,Pitcairn Islands,698.0,Beauty,Nail Polish,4.0,921.5,3686.0,East
+452.0,2023-08-17,5174.0,Larry Mack,barnesjennifer@kennedy-porter.org,Croatia,662.0,Electronics,Laptop,7.0,908.7,6360.9,South
+453.0,2024-08-16,4763.0,Christopher James,beverlyrodriguez@lawson.com,Tunisia,981.0,Beauty,Perfume,7.0,956.57,6695.99,North
+454.0,2025-03-28,3565.0,James Rose,tinasanders@mcdaniel-king.com,Zimbabwe,567.0,Furniture,Couch,10.0,512.1,5121.0,South
+455.0,2024-12-13,3780.0,Jesse Michael,emily63@hotmail.com,Morocco,958.0,Electronics,Smartphone,4.0,117.37,469.48,North
+456.0,2024-12-30,9991.0,Tyler Chapman,jasonsmith@yahoo.com,Afghanistan,994.0,Clothing,Socks,10.0,890.18,8901.8,North
+457.0,2024-05-23,1497.0,Sarah Nielsen,omcdonald@scott.com,Kiribati,905.0,Sports,Basketball,9.0,393.89,3545.01,West
+458.0,2025-02-02,8190.0,Michael Ellis,osbornedonald@yahoo.com,Saint Lucia,569.0,Sports,Football,1.0,35.49,35.49,South
+459.0,2025-01-24,3607.0,Jonathan Wood,brownkimberly@hotmail.com,Djibouti,753.0,Beauty,Makeup,7.0,429.23,3004.61,West
+460.0,2023-10-12,5819.0,Thomas Morgan,cking@hernandez.com,Sudan,875.0,Sports,Bicycle,7.0,825.2,5776.4,North
+461.0,2023-10-13,4148.0,Gary Torres,greyes@johnson-donovan.com,Malawi,876.0,Beauty,Shampoo,7.0,691.0,4837.0,West
+462.0,2024-06-13,2447.0,Mario Bates,xcraig@miller.biz,Ecuador,528.0,Electronics,Laptop,1.0,884.38,884.38,East
+463.0,2024-03-20,9233.0,Justin Burgess,vnelson@roberts-murray.com,Israel,865.0,Electronics,Smartphone,4.0,31.88,127.52,North
+464.0,2024-09-01,1158.0,Jessica Morrison,charlesgonzalez@li.org,Guernsey,545.0,Sports,Bicycle,9.0,299.46,2695.14,North
+465.0,2024-10-19,1349.0,Holly Jones,yrangel@yahoo.com,Solomon Islands,892.0,Electronics,Headphones,8.0,355.82,2846.56,North
+466.0,2024-06-18,8305.0,Wayne Stokes,brendaclark@castillo-delgado.com,Mali,525.0,Beauty,Nail Polish,7.0,707.24,4950.68,East
+467.0,2025-03-19,3976.0,Leslie Torres,hrocha@gmail.com,Niger,951.0,Sports,Football,10.0,324.53,3245.3,South
+468.0,2024-04-06,8882.0,Samuel Brown,lisa41@guerra.com,Myanmar,663.0,Clothing,Shoes,3.0,942.27,2826.81,West
+469.0,2024-07-08,8352.0,Adam Burns,michael72@hotmail.com,Nigeria,897.0,Furniture,Chair,7.0,138.67,970.69,East
+470.0,2025-02-02,3659.0,Tanya Franklin,williamsedwin@hotmail.com,Peru,560.0,Clothing,Shoes,2.0,877.31,1754.62,West
+471.0,2025-02-18,8588.0,Ellen Horton,ybaker@robinson-murphy.com,Mauritania,951.0,Beauty,Makeup,10.0,344.67,3446.7,West
+472.0,2024-08-19,4664.0,Eric Olson,barreraashley@white-stone.org,Belize,721.0,Sports,Treadmill,1.0,993.62,993.62,West
+473.0,2024-08-24,5493.0,Calvin Jimenez,carladams@lowe.com,Gabon,933.0,Sports,Tennis Racket,9.0,416.69,3750.21,North
+474.0,2025-03-15,6590.0,Dawn Garza,stephen37@matthews.com,Palau,783.0,Electronics,Camera,6.0,599.02,3594.12,South
+475.0,2025-03-31,8882.0,Samuel Brown,lisa41@guerra.com,Myanmar,515.0,Beauty,Nail Polish,9.0,83.41,750.69,North
+476.0,2025-06-11,5698.0,Thomas Robinson,agallagher@gmail.com,Belize,858.0,Sports,Tennis Racket,5.0,264.3,1321.5,East
+477.0,2023-08-23,2305.0,Robert Hill,riverskathleen@yahoo.com,Italy,598.0,Beauty,Makeup,7.0,896.23,6273.61,East
+478.0,2024-12-10,3411.0,Ashley Lang,kimberly70@best.info,Belgium,671.0,Electronics,Headphones,8.0,237.62,1900.96,South
+479.0,2023-10-14,3258.0,Reginald Middleton,wfletcher@gmail.com,South Georgia and the South Sandwich Islands,947.0,Beauty,Lotion,5.0,463.06,2315.3,West
+480.0,2024-09-23,4082.0,Rachael Lawson,melissa79@king-nelson.com,Bosnia and Herzegovina,591.0,Furniture,Chair,6.0,536.1,3216.6,North
+481.0,2023-11-07,4763.0,Christopher James,beverlyrodriguez@lawson.com,Tunisia,952.0,Clothing,Jeans,4.0,69.38,277.52,North
+482.0,2023-12-11,5400.0,Jessica Weber,mejiaalisha@gmail.com,Guinea,636.0,Sports,Bicycle,3.0,144.88,434.64,East
+483.0,2024-05-20,2377.0,Heather Smith,kingeric@whitney.net,Burkina Faso,654.0,Clothing,Jacket,1.0,777.93,777.93,West
+484.0,2024-11-23,4550.0,Christina Rodriguez,stevenslacey@yahoo.com,Albania,965.0,Clothing,Shoes,10.0,737.32,7373.2,West
+485.0,2024-12-27,9451.0,Ashley Williams,aliciagreen@hartman.com,Uzbekistan,616.0,Sports,Treadmill,2.0,376.68,753.36,East
+486.0,2024-11-24,9420.0,Brianna Yoder,holly82@clark.com,Latvia,793.0,Clothing,Socks,6.0,704.3,4225.8,South
+487.0,2025-02-27,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,534.0,Furniture,Desk,8.0,883.04,7064.32,North
+488.0,2024-05-04,4896.0,Paul Gonzalez,charlesmendez@hotmail.com,Australia,602.0,Sports,Bicycle,6.0,985.09,5910.54,South
+489.0,2025-01-08,9233.0,Justin Burgess,vnelson@roberts-murray.com,Israel,741.0,Beauty,Nail Polish,3.0,543.65,1630.95,East
+490.0,2024-07-22,9951.0,Mikayla Garrett,ymoran@yahoo.com,Venezuela,874.0,Electronics,Camera,8.0,619.86,4958.88,West
+491.0,2023-11-07,8859.0,Tammy Zhang,rodriguezdalton@hotmail.com,Guam,623.0,Sports,Football,1.0,159.29,159.29,South
+492.0,2023-10-12,8433.0,Jacob Norris,mariachang@nguyen.com,South Georgia and the South Sandwich Islands,972.0,Clothing,T-Shirt,8.0,777.49,6219.92,South
+493.0,2024-06-14,2924.0,Amanda Hayden,leonard92@hotmail.com,Jersey,582.0,Electronics,Monitor,7.0,801.32,5609.24,West
+494.0,2025-01-07,3335.0,Justin Ellis,amybentley@keith.biz,Estonia,684.0,Furniture,Desk,1.0,194.95,194.95,South
+495.0,2024-03-30,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,979.0,Beauty,Makeup,3.0,894.26,2682.78,North
+496.0,2023-09-26,5622.0,Aaron Cox,rmelton@hughes.info,Mauritania,627.0,Sports,Bicycle,10.0,185.85,1858.5,West
+497.0,2024-08-22,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,924.0,Furniture,Couch,6.0,215.76,1294.56,North
+498.0,2023-10-12,4717.0,Emily Phillips,laura35@yahoo.com,Armenia,705.0,Sports,Tennis Racket,9.0,699.47,6295.23,West
+499.0,2023-12-06,3193.0,Kevin Jenkins,zmontgomery@miller-carr.com,Taiwan,705.0,Beauty,Lotion,2.0,161.4,322.8,East
+500.0,2024-04-28,9388.0,Cheryl Stone,julie67@harris.com,Slovakia (Slovak Republic),911.0,Sports,Basketball,4.0,540.47,2161.88,South
+502.0,2024-06-18,1460.0,Jenny Diaz,robinsonkayla@hotmail.com,Mayotte,809.0,Electronics,Smartphone,3.0,24.28,72.84,East
+503.0,2025-02-24,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,673.0,Furniture,Bed,10.0,75.57,755.7,North
+504.0,2024-05-14,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,601.0,Sports,Basketball,9.0,403.79,3634.11,North
+505.0,2024-05-12,9094.0,Erica Martin,monica53@kim.com,Guadeloupe,668.0,Electronics,Monitor,5.0,877.94,4389.7,South
+506.0,2024-11-03,3607.0,Jonathan Wood,brownkimberly@hotmail.com,Djibouti,678.0,Sports,Tennis Racket,3.0,982.77,2948.31,West
+507.0,2024-08-29,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,903.0,Clothing,Shoes,9.0,372.41,3351.69,West
+508.0,2025-02-26,7295.0,Michael Johnson,wrightlaura@harris.biz,Eritrea,703.0,Electronics,Camera,5.0,36.25,181.25,South
+509.0,2024-09-26,1460.0,Jenny Diaz,robinsonkayla@hotmail.com,Mayotte,644.0,Furniture,Bed,2.0,611.37,1222.74,West
+510.0,2023-07-24,2672.0,Annette Phillips,aaron27@yahoo.com,Guadeloupe,662.0,Sports,Football,5.0,649.4,3247.0,North
+511.0,2024-08-06,7766.0,Anthony Houston,zparsons@gmail.com,Marshall Islands,982.0,Sports,Basketball,2.0,935.11,1870.22,West
+512.0,2024-08-21,9388.0,Cheryl Stone,julie67@harris.com,Slovakia (Slovak Republic),840.0,Electronics,Smartphone,4.0,486.78,1947.12,West
+513.0,2024-09-19,7259.0,Lisa Torres,charlescox@yahoo.com,Kuwait,581.0,Sports,Treadmill,4.0,473.91,1895.64,North
+514.0,2025-04-14,6624.0,Tammy Stewart,dgay@peterson.com,Bhutan,905.0,Beauty,Makeup,4.0,621.88,2487.52,East
+515.0,2024-12-13,5514.0,Jeremiah Fowler,kirstensmith@gmail.com,Congo,944.0,Beauty,Perfume,1.0,175.37,175.37,South
+516.0,2024-02-09,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,952.0,Furniture,Bed,5.0,635.57,3177.85,East
+518.0,2025-03-24,4989.0,Ann Lara,kristenstone@yahoo.com,Bosnia and Herzegovina,889.0,Electronics,Laptop,6.0,359.41,2156.46,East
+520.0,2023-10-14,2746.0,Jesse Krause,cookkimberly@yahoo.com,Lesotho,562.0,Beauty,Shampoo,6.0,550.75,3304.5,South
+521.0,2024-10-25,1419.0,Brittany Robinson,hayesedward@yahoo.com,Barbados,592.0,Electronics,Monitor,2.0,891.28,1782.56,West
+522.0,2025-04-18,8588.0,Ellen Horton,ybaker@robinson-murphy.com,Mauritania,667.0,Furniture,Chair,9.0,69.08,621.72,East
+523.0,2024-07-06,1712.0,Karen Williams MD,david62@gmail.com,Netherlands Antilles,542.0,Beauty,Nail Polish,6.0,470.32,2821.92,North
+524.0,2024-04-27,8443.0,Joseph Wise,nwhite@davis-foster.com,Jersey,918.0,Clothing,Socks,4.0,854.54,3418.16,South
+525.0,2025-04-27,7242.0,Benjamin Peterson,patrickchad@gmail.com,Niger,816.0,Furniture,Couch,4.0,641.42,2565.68,West
+526.0,2023-09-23,9388.0,Cheryl Stone,julie67@harris.com,Slovakia (Slovak Republic),875.0,Beauty,Perfume,2.0,897.7,1795.4,West
+527.0,2023-07-31,7351.0,Joshua Rojas,joneserica@smith-guzman.com,Lebanon,594.0,Clothing,Jacket,5.0,905.41,4527.05,East
+528.0,2025-06-17,1355.0,Lindsey Peterson,james86@baldwin-pope.org,Saint Kitts and Nevis,704.0,Sports,Treadmill,6.0,67.44,404.64,West
+529.0,2024-12-15,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,954.0,Sports,Treadmill,4.0,745.29,2981.16,South
+530.0,2023-08-28,2020.0,Melanie Gonzalez,amber03@hotmail.com,Montserrat,996.0,Electronics,Headphones,5.0,816.41,4082.05,West
+531.0,2024-11-13,4664.0,Eric Olson,barreraashley@white-stone.org,Belize,574.0,Electronics,Monitor,7.0,654.66,4582.62,South
+532.0,2025-03-10,6654.0,Brian Mccarthy,pstout@duncan.com,Anguilla,922.0,Furniture,Chair,7.0,756.58,5296.06,West
+533.0,2024-02-06,5851.0,John Flores,kristenkennedy@lane.com,Liberia,740.0,Beauty,Shampoo,7.0,789.15,5524.05,East
+534.0,2025-01-24,3477.0,Linda Lopez,laneapril@yahoo.com,Svalbard & Jan Mayen Islands,898.0,Furniture,Bed,1.0,773.59,773.59,South
+535.0,2024-12-07,9895.0,Matthew Stark,brianguerra@blankenship.com,Libyan Arab Jamahiriya,578.0,Electronics,Laptop,10.0,930.2,9302.0,West
+536.0,2024-03-08,8942.0,Dean Russell,robert06@hines.com,Belarus,767.0,Clothing,Jeans,8.0,109.56,876.48,North
+537.0,2024-03-15,5043.0,Cheryl Young,jmoreno@morales.info,Belgium,977.0,Clothing,Jacket,2.0,279.9,559.8,East
+538.0,2025-01-26,5678.0,Lisa Williams,yadams@johnson-cruz.com,Niue,669.0,Beauty,Perfume,6.0,825.03,4950.18,South
+539.0,2024-05-28,7143.0,Timothy French,allenglass@rodriguez.com,Ireland,911.0,Sports,Treadmill,4.0,246.05,984.2,East
+540.0,2025-03-14,5622.0,Aaron Cox,rmelton@hughes.info,Mauritania,845.0,Sports,Bicycle,1.0,606.11,606.11,East
+541.0,2024-12-07,5493.0,Calvin Jimenez,carladams@lowe.com,Gabon,911.0,Beauty,Perfume,10.0,336.18,3361.8,West
+542.0,2024-03-28,3780.0,Jesse Michael,emily63@hotmail.com,Morocco,932.0,Electronics,Headphones,7.0,26.21,183.47,South
+543.0,2025-02-08,7107.0,Randall Robinson,ucarter@sanders-mccarthy.com,Senegal,711.0,Electronics,Laptop,1.0,494.19,494.19,North
+544.0,2024-09-14,5458.0,Michael Waller,meganjones@watkins.com,India,990.0,Sports,Basketball,10.0,732.52,7325.2,South
+545.0,2025-02-15,6825.0,Katie Cooke,cmartinez@hotmail.com,Greece,776.0,Beauty,Perfume,9.0,762.77,6864.93,West
+546.0,2024-04-11,4804.0,Jenna Robinson,tolson@brown.com,Venezuela,959.0,Clothing,Jeans,5.0,666.68,3333.4,West
+547.0,2025-01-31,1604.0,Tammy Miles,jamesjones@white.com,Chile,783.0,Sports,Tennis Racket,6.0,530.82,3184.92,North
+548.0,2024-06-09,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,771.0,Electronics,Smartphone,1.0,223.14,223.14,North
+549.0,2024-01-21,2978.0,Savannah Shah,christian27@hotmail.com,Saint Kitts and Nevis,781.0,Electronics,Smartphone,10.0,794.78,7947.8,East
+550.0,2024-04-14,9703.0,Jeremy Baker,andrew88@brown-ortiz.com,Cuba,954.0,Clothing,T-Shirt,4.0,476.87,1907.48,East
+551.0,2024-09-24,4550.0,Christina Rodriguez,stevenslacey@yahoo.com,Albania,992.0,Clothing,Jacket,6.0,220.06,1320.36,North
+552.0,2024-09-19,1355.0,Lindsey Peterson,james86@baldwin-pope.org,Saint Kitts and Nevis,984.0,Furniture,Table,1.0,55.66,55.66,West
+553.0,2024-12-18,6989.0,Ronald Stewart,simonbrianna@schmidt.com,Yemen,977.0,Furniture,Table,6.0,224.25,1345.5,West
+554.0,2024-10-25,6624.0,Tammy Stewart,dgay@peterson.com,Bhutan,972.0,Sports,Football,7.0,97.39,681.73,East
+555.0,2024-11-01,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,943.0,Electronics,Headphones,4.0,126.3,505.2,North
+556.0,2024-02-17,8761.0,Sara Green,joseph01@gmail.com,Nicaragua,767.0,Beauty,Perfume,10.0,454.54,4545.4,East
+558.0,2023-09-22,8604.0,Timothy Henson,sarah52@reed.org,Mayotte,613.0,Sports,Tennis Racket,10.0,840.76,8407.6,West
+559.0,2025-02-17,6031.0,Stephanie Lewis,ronaldcannon@gmail.com,Korea,848.0,Clothing,Jeans,10.0,87.23,872.3,West
+560.0,2023-09-30,8190.0,Michael Ellis,osbornedonald@yahoo.com,Saint Lucia,990.0,Clothing,Shoes,8.0,576.83,4614.64,West
+561.0,2023-12-26,4082.0,Rachael Lawson,melissa79@king-nelson.com,Bosnia and Herzegovina,671.0,Sports,Basketball,1.0,354.45,354.45,East
+562.0,2023-07-28,7856.0,Theresa Garcia,johnsonkristina@gmail.com,Saint Barthelemy,937.0,Electronics,Laptop,6.0,699.26,4195.56,West
+563.0,2025-02-22,9938.0,William Rivera,randolphkathryn@curtis.biz,Mongolia,552.0,Electronics,Camera,9.0,107.66,968.94,South
+564.0,2023-11-20,9420.0,Brianna Yoder,holly82@clark.com,Latvia,923.0,Beauty,Lotion,8.0,771.69,6173.52,East
+565.0,2024-03-03,8305.0,Wayne Stokes,brendaclark@castillo-delgado.com,Mali,929.0,Sports,Bicycle,10.0,353.19,3531.9,East
+566.0,2023-10-19,5400.0,Jessica Weber,mejiaalisha@gmail.com,Guinea,726.0,Electronics,Headphones,4.0,77.84,311.36,South
+568.0,2025-01-09,4305.0,Jennifer Gardner,andradetina@gmail.com,Slovakia (Slovak Republic),797.0,Furniture,Table,3.0,879.12,2637.36,East
+569.0,2023-12-01,4988.0,Lori Medina,peterallen@hotmail.com,Gibraltar,680.0,Sports,Bicycle,1.0,708.58,708.58,North
+570.0,2025-01-21,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,576.0,Furniture,Bed,8.0,237.48,1899.84,North
+571.0,2024-08-26,9232.0,Vincent Johnson,jperkins@young-santiago.net,Pakistan,529.0,Sports,Treadmill,2.0,99.97,199.94,North
+572.0,2024-06-23,4989.0,Ann Lara,kristenstone@yahoo.com,Bosnia and Herzegovina,894.0,Beauty,Makeup,8.0,51.5,412.0,North
+573.0,2024-01-09,5048.0,Frank Chandler,tammyhoover@bender-ferguson.biz,Mayotte,700.0,Beauty,Lotion,2.0,99.47,198.94,South
+574.0,2023-08-07,5996.0,Jessica Kelly,brandy96@watson.com,Turkmenistan,555.0,Clothing,Jeans,1.0,205.37,205.37,South
+575.0,2024-04-24,2305.0,Robert Hill,riverskathleen@yahoo.com,Italy,847.0,Furniture,Bed,10.0,562.52,5625.2,East
+576.0,2023-08-06,5427.0,Jack Hoover,wardkelly@hotmail.com,Malaysia,872.0,Furniture,Table,4.0,879.64,3518.56,East
+577.0,2023-07-24,3032.0,Matthew Manning,brennanmark@powell-mendoza.com,Malawi,542.0,Beauty,Shampoo,5.0,27.69,138.45,East
+578.0,2025-01-21,8379.0,David Kelley,bthomas@rios-lawson.com,Guinea,824.0,Furniture,Chair,7.0,660.65,4624.55,South
+579.0,2024-07-25,3335.0,Justin Ellis,amybentley@keith.biz,Estonia,771.0,Sports,Treadmill,8.0,216.72,1733.76,West
+580.0,2025-06-04,4148.0,Gary Torres,greyes@johnson-donovan.com,Malawi,742.0,Electronics,Laptop,6.0,385.87,2315.22,North
+581.0,2025-05-23,4705.0,Felicia Garcia,jeremy30@gmail.com,Czech Republic,723.0,Sports,Tennis Racket,9.0,32.7,294.3,South
+582.0,2024-08-28,8882.0,Samuel Brown,lisa41@guerra.com,Myanmar,931.0,Sports,Treadmill,9.0,222.92,2006.28,South
+583.0,2024-02-29,5285.0,Joshua Stephens,lisa09@hotmail.com,Korea,737.0,Sports,Tennis Racket,3.0,373.07,1119.21,South
+584.0,2023-10-27,6825.0,Katie Cooke,cmartinez@hotmail.com,Greece,799.0,Beauty,Perfume,7.0,523.78,3666.46,West
+585.0,2025-02-27,3258.0,Reginald Middleton,wfletcher@gmail.com,South Georgia and the South Sandwich Islands,611.0,Electronics,Headphones,8.0,348.84,2790.72,East
+586.0,2024-08-23,9107.0,Jason Miller,catherineperry@contreras.com,Palau,919.0,Sports,Basketball,5.0,799.61,3998.05,East
+587.0,2024-08-07,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,754.0,Beauty,Makeup,5.0,839.94,4199.7,South
+588.0,2025-04-03,2278.0,Andrea Sandoval,catherine75@mcdonald.com,Hong Kong,644.0,Furniture,Chair,1.0,296.28,296.28,West
+589.0,2024-07-28,9895.0,Matthew Stark,brianguerra@blankenship.com,Libyan Arab Jamahiriya,977.0,Electronics,Laptop,8.0,563.4,4507.2,East
+590.0,2025-02-26,8433.0,Jacob Norris,mariachang@nguyen.com,South Georgia and the South Sandwich Islands,722.0,Beauty,Makeup,5.0,801.98,4009.9,South
+592.0,2024-09-07,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,989.0,Sports,Basketball,7.0,733.69,5135.83,North
+593.0,2024-11-18,1908.0,Stanley Grant,kevin63@padilla.com,Angola,829.0,Sports,Tennis Racket,8.0,384.12,3072.96,East
+594.0,2024-02-25,4319.0,Fred Hanson,hunttodd@taylor.org,Hungary,888.0,Sports,Basketball,9.0,485.99,4373.91,South
+595.0,2025-01-17,4902.0,Kenneth Meyer,ryancurry@anderson-garcia.biz,Ireland,711.0,Furniture,Table,5.0,297.24,1486.2,North
+596.0,2024-02-24,2734.0,Erica Brown,webermolly@gilmore-andrews.net,Libyan Arab Jamahiriya,887.0,Furniture,Bed,9.0,722.64,6503.76,North
+597.0,2024-05-19,6891.0,Mark West,patricia36@steele.com,Japan,570.0,Furniture,Table,3.0,266.92,800.76,South
+598.0,2024-12-01,4902.0,Kenneth Meyer,ryancurry@anderson-garcia.biz,Ireland,547.0,Sports,Basketball,1.0,943.45,943.45,East
+599.0,2023-08-05,6891.0,Mark West,patricia36@steele.com,Japan,660.0,Furniture,Couch,6.0,602.77,3616.62,West
+600.0,2023-12-17,8352.0,Adam Burns,michael72@hotmail.com,Nigeria,814.0,Sports,Bicycle,6.0,837.61,5025.66,East
+601.0,2023-12-15,6624.0,Tammy Stewart,dgay@peterson.com,Bhutan,723.0,Electronics,Monitor,5.0,182.74,913.7,West
+602.0,2024-11-21,3780.0,Jesse Michael,emily63@hotmail.com,Morocco,766.0,Sports,Treadmill,10.0,465.22,4652.2,West
+603.0,2025-01-24,9052.0,Daniel Schmidt II,whitedanielle@gmail.com,Congo,974.0,Furniture,Desk,1.0,888.39,888.39,East
+604.0,2025-02-11,2501.0,Beverly Estes,nmoore@gmail.com,Mauritania,654.0,Clothing,T-Shirt,7.0,256.86,1798.02,East
+605.0,2023-09-07,8942.0,Dean Russell,robert06@hines.com,Belarus,672.0,Furniture,Desk,10.0,987.62,9876.2,North
+606.0,2023-09-15,7766.0,Anthony Houston,zparsons@gmail.com,Marshall Islands,949.0,Furniture,Desk,1.0,540.85,540.85,North
+607.0,2023-10-07,5625.0,Kenneth Hill,ana64@yahoo.com,Micronesia,669.0,Electronics,Headphones,2.0,204.46,408.92,East
+608.0,2023-12-22,9951.0,Mikayla Garrett,ymoran@yahoo.com,Venezuela,701.0,Clothing,Socks,8.0,779.6,6236.8,West
+609.0,2024-09-01,6825.0,Katie Cooke,cmartinez@hotmail.com,Greece,870.0,Sports,Football,1.0,801.64,801.64,West
+610.0,2024-07-23,1419.0,Brittany Robinson,hayesedward@yahoo.com,Barbados,691.0,Beauty,Shampoo,3.0,593.0,1779.0,South
+611.0,2025-03-01,4804.0,Jenna Robinson,tolson@brown.com,Venezuela,809.0,Sports,Football,4.0,366.48,1465.92,East
+612.0,2024-12-17,1540.0,Angela Mcdaniel,williamsalicia@gmail.com,Senegal,815.0,Beauty,Nail Polish,7.0,26.03,182.21,South
+613.0,2024-05-28,5017.0,James Henderson,sanderstina@valdez.biz,Monaco,720.0,Sports,Treadmill,10.0,704.15,7041.5,East
+614.0,2024-12-12,9816.0,Joe Williams,igordon@yahoo.com,Angola,713.0,Beauty,Perfume,8.0,589.31,4714.48,West
+616.0,2023-09-03,6093.0,Ashley Russo,johnsmith@hotmail.com,Liberia,767.0,Furniture,Couch,3.0,567.55,1702.65,West
+617.0,2025-03-21,9227.0,Troy Wagner,amartinez@hotmail.com,Palau,633.0,Clothing,Shoes,4.0,531.81,2127.24,South
+618.0,2024-12-10,9938.0,William Rivera,randolphkathryn@curtis.biz,Mongolia,843.0,Beauty,Perfume,1.0,95.62,95.62,West
+619.0,2025-04-08,2746.0,Jesse Krause,cookkimberly@yahoo.com,Lesotho,739.0,Electronics,Smartphone,3.0,856.79,2570.37,North
+620.0,2025-02-05,8222.0,Christopher Benton,kperkins@wright.com,Benin,829.0,Furniture,Desk,7.0,553.43,3874.01,North
+621.0,2025-02-16,1420.0,Hayley Fox,danaryan@jimenez.com,Faroe Islands,612.0,Sports,Football,8.0,71.25,570.0,West
+622.0,2025-06-20,8046.0,Claire Hobbs,aprilboyd@yahoo.com,Italy,546.0,Electronics,Laptop,3.0,293.53,880.59,West
+623.0,2025-04-16,4148.0,Gary Torres,greyes@johnson-donovan.com,Malawi,813.0,Furniture,Table,2.0,985.81,1971.62,South
+624.0,2025-01-25,6274.0,Daniel Madden,qgarza@flowers.net,Armenia,613.0,Sports,Treadmill,8.0,209.61,1676.88,West
+625.0,2025-02-27,3780.0,Jesse Michael,emily63@hotmail.com,Morocco,546.0,Electronics,Laptop,8.0,105.63,845.04,South
+626.0,2025-02-12,6883.0,Tamara Perez,jacksonjames@gmail.com,Nigeria,573.0,Sports,Football,9.0,127.82,1150.38,West
+627.0,2023-12-15,9227.0,Troy Wagner,amartinez@hotmail.com,Palau,946.0,Sports,Tennis Racket,5.0,669.68,3348.4,East
+628.0,2025-02-13,2305.0,Robert Hill,riverskathleen@yahoo.com,Italy,624.0,Electronics,Headphones,6.0,442.56,2655.36,West
+629.0,2024-08-12,1161.0,Juan Montoya,shawndixon@brooks-taylor.com,Egypt,551.0,Furniture,Couch,10.0,344.53,3445.3,North
+630.0,2025-06-11,4211.0,Rachael Woods,washingtonsarah@yahoo.com,Sri Lanka,544.0,Sports,Bicycle,4.0,860.73,3442.92,East
+631.0,2024-09-10,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,674.0,Sports,Bicycle,9.0,865.18,7786.62,North
+633.0,2025-01-13,1008.0,Nicholas Barnes,taylorrobert@gmail.com,United Arab Emirates,690.0,Electronics,Laptop,1.0,619.56,619.56,South
+634.0,2024-05-14,2132.0,Alicia Cannon,qbrown@decker.org,Pitcairn Islands,703.0,Electronics,Smartphone,10.0,143.2,1432.0,North
+635.0,2024-11-10,8761.0,Sara Green,joseph01@gmail.com,Nicaragua,981.0,Electronics,Smartphone,9.0,526.05,4734.45,North
+636.0,2023-09-09,5622.0,Aaron Cox,rmelton@hughes.info,Mauritania,973.0,Electronics,Smartphone,5.0,296.23,1481.15,West
+637.0,2024-07-09,8761.0,Sara Green,joseph01@gmail.com,Nicaragua,796.0,Sports,Basketball,7.0,346.32,2424.24,East
+638.0,2023-08-28,9404.0,Mrs. Tricia Newton MD,jessicaschultz@gmail.com,Vanuatu,851.0,Beauty,Lotion,6.0,952.14,5712.84,North
+640.0,2023-11-09,5758.0,Michael Ball,taylordaniel@yahoo.com,Sao Tome and Principe,865.0,Sports,Bicycle,8.0,528.79,4230.32,West
+641.0,2025-05-12,1540.0,Angela Mcdaniel,williamsalicia@gmail.com,Senegal,931.0,Electronics,Laptop,1.0,233.08,233.08,South
+642.0,2024-02-12,1604.0,Tammy Miles,jamesjones@white.com,Chile,942.0,Clothing,T-Shirt,3.0,767.39,2302.17,North
+643.0,2023-11-04,9035.0,Nathaniel Long,perrychristy@miller-bryant.com,Macedonia,529.0,Clothing,Jacket,9.0,244.97,2204.73,East
+644.0,2023-08-06,9090.0,Michael Myers,jodisandoval@yahoo.com,Vanuatu,902.0,Clothing,T-Shirt,4.0,979.0,3916.0,East
+645.0,2023-08-25,2482.0,Antonio Davis,dana59@villegas-moore.com,Botswana,962.0,Furniture,Couch,1.0,234.83,234.83,West
+647.0,2023-10-03,1351.0,Jeffrey Anderson,wallkevin@hotmail.com,French Southern Territories,765.0,Sports,Football,10.0,922.44,9224.4,South
+648.0,2024-12-14,2924.0,Amanda Hayden,leonard92@hotmail.com,Jersey,813.0,Clothing,Shoes,2.0,984.78,1969.56,West
+650.0,2025-06-20,6891.0,Mark West,patricia36@steele.com,Japan,947.0,Beauty,Makeup,5.0,379.0,1895.0,East
+651.0,2024-04-23,3565.0,James Rose,tinasanders@mcdaniel-king.com,Zimbabwe,766.0,Furniture,Bed,4.0,219.38,877.52,West
+652.0,2025-02-19,7242.0,Benjamin Peterson,patrickchad@gmail.com,Niger,863.0,Beauty,Makeup,8.0,501.82,4014.56,North
+653.0,2024-02-28,5092.0,Kevin Morse PhD,xoliver@tanner.com,Palau,590.0,Electronics,Monitor,2.0,353.34,706.68,West
+654.0,2023-09-05,3411.0,Ashley Lang,kimberly70@best.info,Belgium,920.0,Beauty,Perfume,5.0,130.02,650.1,South
+655.0,2024-07-18,8222.0,Christopher Benton,kperkins@wright.com,Benin,972.0,Clothing,Socks,2.0,515.81,1031.62,North
+656.0,2024-10-14,7538.0,Michael Brooks,garciakristin@miller.org,Belize,581.0,Sports,Treadmill,6.0,830.34,4982.04,East
+657.0,2025-01-31,7417.0,Nicole Moses,austinerin@hotmail.com,Sweden,896.0,Sports,Tennis Racket,3.0,375.72,1127.16,East
+658.0,2025-06-04,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,784.0,Furniture,Chair,1.0,530.36,530.36,South
+661.0,2025-03-22,4082.0,Rachael Lawson,melissa79@king-nelson.com,Bosnia and Herzegovina,749.0,Furniture,Chair,9.0,518.63,4667.67,North
+662.0,2023-11-21,9035.0,Nathaniel Long,perrychristy@miller-bryant.com,Macedonia,961.0,Sports,Treadmill,10.0,832.31,8323.1,East
+663.0,2024-07-20,4307.0,Matthew Espinoza,rodriguezbrandon@garcia.com,Zimbabwe,916.0,Furniture,Chair,1.0,575.52,575.52,West
+665.0,2023-10-19,8588.0,Ellen Horton,ybaker@robinson-murphy.com,Mauritania,755.0,Beauty,Makeup,3.0,618.82,1856.46,East
+666.0,2023-12-10,1344.0,James Sanchez,richard00@ramirez-smith.com,Bosnia and Herzegovina,692.0,Furniture,Table,5.0,511.6,2558.0,North
+667.0,2024-05-18,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,632.0,Electronics,Smartphone,3.0,679.07,2037.21,North
+668.0,2024-01-29,3032.0,Matthew Manning,brennanmark@powell-mendoza.com,Malawi,530.0,Sports,Basketball,7.0,205.23,1436.61,South
+669.0,2024-06-11,4800.0,Michael Pugh PhD,evan30@turner-lopez.org,Belgium,623.0,Beauty,Makeup,3.0,584.46,1753.38,North
+670.0,2025-05-05,3659.0,Tanya Franklin,williamsedwin@hotmail.com,Peru,851.0,Beauty,Lotion,5.0,974.18,4870.9,West
+671.0,2024-07-29,3477.0,Linda Lopez,laneapril@yahoo.com,Svalbard & Jan Mayen Islands,976.0,Beauty,Shampoo,5.0,573.64,2868.2,South
+672.0,2024-04-18,5400.0,Jessica Weber,mejiaalisha@gmail.com,Guinea,510.0,Furniture,Desk,3.0,184.17,552.51,East
+673.0,2024-05-14,6720.0,Curtis Snyder,jriley@yahoo.com,Senegal,991.0,Furniture,Bed,10.0,55.53,555.3,South
+674.0,2023-11-21,7242.0,Benjamin Peterson,patrickchad@gmail.com,Niger,637.0,Clothing,Jacket,10.0,330.56,3305.6,East
+675.0,2024-12-21,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,895.0,Sports,Tennis Racket,10.0,528.48,5284.8,West
+676.0,2024-05-23,6720.0,Curtis Snyder,jriley@yahoo.com,Senegal,634.0,Sports,Basketball,9.0,502.03,4518.27,West
+677.0,2024-03-30,3229.0,Victor Vazquez,michaelscott@robertson-wilkins.biz,Australia,689.0,Sports,Football,6.0,255.58,1533.48,East
+678.0,2024-06-10,5427.0,Jack Hoover,wardkelly@hotmail.com,Malaysia,622.0,Clothing,Jacket,1.0,549.29,549.29,West
+679.0,2025-04-21,7295.0,Michael Johnson,wrightlaura@harris.biz,Eritrea,929.0,Clothing,T-Shirt,1.0,777.19,777.19,South
+680.0,2025-03-28,7417.0,Nicole Moses,austinerin@hotmail.com,Sweden,673.0,Beauty,Lotion,2.0,145.88,291.76,East
+681.0,2024-09-25,2305.0,Robert Hill,riverskathleen@yahoo.com,Italy,962.0,Beauty,Nail Polish,2.0,310.64,621.28,East
+682.0,2023-11-18,1604.0,Tammy Miles,jamesjones@white.com,Chile,703.0,Beauty,Nail Polish,6.0,119.72,718.32,West
+683.0,2024-05-18,1440.0,Miguel Johnson,taraward@gmail.com,Estonia,699.0,Furniture,Table,7.0,933.95,6537.65,East
+684.0,2025-04-01,7417.0,Nicole Moses,austinerin@hotmail.com,Sweden,837.0,Clothing,Shoes,9.0,699.22,6292.98,West
+685.0,2023-10-21,2978.0,Savannah Shah,christian27@hotmail.com,Saint Kitts and Nevis,996.0,Electronics,Headphones,9.0,478.01,4302.09,West
+686.0,2024-03-30,3193.0,Kevin Jenkins,zmontgomery@miller-carr.com,Taiwan,643.0,Furniture,Table,1.0,348.59,348.59,South
+687.0,2025-01-30,3226.0,Ryan Finley,cwhite@smith.com,Luxembourg,574.0,Sports,Treadmill,2.0,682.81,1365.62,South
+688.0,2023-10-31,1712.0,Karen Williams MD,david62@gmail.com,Netherlands Antilles,524.0,Furniture,Table,7.0,359.1,2513.7,South
+689.0,2024-05-21,2501.0,Beverly Estes,nmoore@gmail.com,Mauritania,789.0,Clothing,Jeans,6.0,692.95,4157.7,North
+690.0,2025-02-14,2924.0,Amanda Hayden,leonard92@hotmail.com,Jersey,761.0,Electronics,Headphones,3.0,136.43,409.29,West
+691.0,2024-01-25,2278.0,Andrea Sandoval,catherine75@mcdonald.com,Hong Kong,790.0,Clothing,Socks,5.0,497.52,2487.6,West
+692.0,2024-10-02,7242.0,Benjamin Peterson,patrickchad@gmail.com,Niger,549.0,Beauty,Nail Polish,3.0,708.28,2124.84,West
+693.0,2024-03-17,4550.0,Christina Rodriguez,stevenslacey@yahoo.com,Albania,731.0,Beauty,Perfume,9.0,491.52,4423.68,East
+694.0,2024-10-23,6274.0,Daniel Madden,qgarza@flowers.net,Armenia,948.0,Sports,Football,8.0,667.97,5343.76,West
+695.0,2024-12-15,4926.0,Joseph Cherry DDS,simonjoe@hotmail.com,Guam,534.0,Electronics,Smartphone,8.0,527.02,4216.16,West
+696.0,2024-08-29,2974.0,Raymond Sweeney,hjohnson@yahoo.com,El Salvador,773.0,Clothing,Shoes,8.0,648.75,5190.0,South
+697.0,2023-08-15,8379.0,David Kelley,bthomas@rios-lawson.com,Guinea,591.0,Furniture,Chair,1.0,97.96,97.96,West
+698.0,2024-03-07,4082.0,Rachael Lawson,melissa79@king-nelson.com,Bosnia and Herzegovina,918.0,Electronics,Smartphone,6.0,812.8,4876.8,West
+699.0,2024-07-27,9951.0,Mikayla Garrett,ymoran@yahoo.com,Venezuela,818.0,Sports,Treadmill,3.0,977.73,2933.19,South
+700.0,2023-12-17,1158.0,Jessica Morrison,charlesgonzalez@li.org,Guernsey,533.0,Furniture,Couch,2.0,601.32,1202.64,West
+701.0,2025-04-01,1419.0,Brittany Robinson,hayesedward@yahoo.com,Barbados,849.0,Beauty,Nail Polish,6.0,516.45,3098.7,West
+702.0,2024-08-03,3659.0,Tanya Franklin,williamsedwin@hotmail.com,Peru,768.0,Clothing,Jacket,7.0,900.36,6302.52,East
+703.0,2024-10-24,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,693.0,Beauty,Nail Polish,7.0,427.06,2989.42,South
+704.0,2025-05-25,1460.0,Jenny Diaz,robinsonkayla@hotmail.com,Mayotte,504.0,Beauty,Makeup,5.0,266.36,1331.8,South
+707.0,2024-08-31,1355.0,Lindsey Peterson,james86@baldwin-pope.org,Saint Kitts and Nevis,764.0,Electronics,Laptop,4.0,868.37,3473.48,South
+708.0,2024-08-01,9232.0,Vincent Johnson,jperkins@young-santiago.net,Pakistan,649.0,Electronics,Headphones,3.0,353.44,1060.32,South
+709.0,2025-01-22,5017.0,James Henderson,sanderstina@valdez.biz,Monaco,993.0,Clothing,Shoes,6.0,568.52,3411.12,South
+710.0,2025-06-13,5684.0,Dennis Mack,hannahfriedman@jacobs.biz,Tonga,814.0,Beauty,Nail Polish,9.0,632.71,5694.39,West
+711.0,2024-11-21,9107.0,Jason Miller,catherineperry@contreras.com,Palau,863.0,Beauty,Nail Polish,10.0,105.04,1050.4,West
+712.0,2024-07-19,8190.0,Michael Ellis,osbornedonald@yahoo.com,Saint Lucia,688.0,Electronics,Laptop,2.0,896.52,1793.04,South
+713.0,2023-08-13,6883.0,Tamara Perez,jacksonjames@gmail.com,Nigeria,747.0,Furniture,Chair,7.0,181.58,1271.06,North
+714.0,2023-08-24,5851.0,John Flores,kristenkennedy@lane.com,Liberia,582.0,Furniture,Table,1.0,156.07,156.07,East
+715.0,2024-06-15,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,626.0,Furniture,Couch,6.0,641.17,3847.02,South
+716.0,2024-09-26,4603.0,Martin Brown,bennettjoseph@hotmail.com,Finland,546.0,Sports,Tennis Racket,10.0,668.48,6684.8,West
+717.0,2024-08-22,1344.0,James Sanchez,richard00@ramirez-smith.com,Bosnia and Herzegovina,871.0,Electronics,Camera,6.0,580.24,3481.44,South
+718.0,2024-11-01,8386.0,Ronnie Wells,michelle25@gmail.com,Faroe Islands,844.0,Clothing,Socks,3.0,495.13,1485.39,East
+719.0,2024-04-03,1712.0,Karen Williams MD,david62@gmail.com,Netherlands Antilles,503.0,Clothing,Jacket,10.0,204.89,2048.9,West
+720.0,2023-08-31,7870.0,Christopher Curtis,nspencer@gmail.com,Oman,985.0,Clothing,Shoes,2.0,832.4,1664.8,South
+721.0,2024-12-04,8352.0,Adam Burns,michael72@hotmail.com,Nigeria,869.0,Furniture,Couch,10.0,892.28,8922.8,East
+722.0,2025-02-14,9341.0,Lisa Murphy,antonio56@hotmail.com,Armenia,830.0,Clothing,Jeans,7.0,149.67,1047.69,South
+723.0,2024-07-31,9001.0,Diane Lawrence,qcook@stewart.biz,Turks and Caicos Islands,981.0,Electronics,Laptop,1.0,632.19,632.19,South
+724.0,2024-10-17,3640.0,Pamela Allen,djones@yahoo.com,Iceland,606.0,Electronics,Camera,4.0,480.86,1923.44,North
+725.0,2025-03-24,8443.0,Joseph Wise,nwhite@davis-foster.com,Jersey,948.0,Electronics,Headphones,9.0,667.35,6006.15,South
+726.0,2024-01-31,9951.0,Mikayla Garrett,ymoran@yahoo.com,Venezuela,987.0,Sports,Basketball,1.0,165.58,165.58,West
+727.0,2023-11-08,9895.0,Matthew Stark,brianguerra@blankenship.com,Libyan Arab Jamahiriya,813.0,Beauty,Nail Polish,6.0,372.55,2235.3,West
+728.0,2025-03-13,4926.0,Joseph Cherry DDS,simonjoe@hotmail.com,Guam,726.0,Electronics,Monitor,7.0,919.08,6433.56,East
+729.0,2024-02-23,9594.0,Miss Alexandra Scott,michaeljones@perez.com,Netherlands,800.0,Furniture,Desk,3.0,528.17,1584.51,South
+730.0,2025-06-13,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,914.0,Beauty,Nail Polish,4.0,887.64,3550.56,East
+731.0,2024-11-30,9938.0,William Rivera,randolphkathryn@curtis.biz,Mongolia,662.0,Beauty,Perfume,4.0,448.16,1792.64,South
+732.0,2024-03-13,7143.0,Timothy French,allenglass@rodriguez.com,Ireland,552.0,Sports,Football,3.0,531.05,1593.15,South
+733.0,2025-02-18,1405.0,Tracey Robbins,stephen58@gmail.com,Samoa,867.0,Beauty,Nail Polish,2.0,675.35,1350.7,East
+734.0,2025-02-08,9816.0,Joe Williams,igordon@yahoo.com,Angola,634.0,Electronics,Camera,9.0,840.65,7565.85,North
+735.0,2023-09-27,6031.0,Stephanie Lewis,ronaldcannon@gmail.com,Korea,934.0,Sports,Bicycle,7.0,57.84,404.88,North
+736.0,2024-07-27,6274.0,Daniel Madden,qgarza@flowers.net,Armenia,939.0,Sports,Treadmill,7.0,332.11,2324.77,East
+737.0,2024-03-29,1908.0,Stanley Grant,kevin63@padilla.com,Angola,534.0,Clothing,Jeans,4.0,381.08,1524.32,North
+738.0,2024-07-20,8386.0,Ronnie Wells,michelle25@gmail.com,Faroe Islands,686.0,Beauty,Makeup,9.0,147.45,1327.05,West
+739.0,2024-10-07,8213.0,Jacob Henry,emilysolomon@young.com,Philippines,746.0,Electronics,Monitor,1.0,573.51,573.51,West
+740.0,2024-12-11,4896.0,Paul Gonzalez,charlesmendez@hotmail.com,Australia,882.0,Beauty,Lotion,2.0,187.6,375.2,West
+741.0,2023-11-25,8942.0,Dean Russell,robert06@hines.com,Belarus,741.0,Beauty,Makeup,6.0,570.51,3423.06,West
+742.0,2025-04-14,5698.0,Thomas Robinson,agallagher@gmail.com,Belize,664.0,Clothing,Shoes,8.0,477.71,3821.68,West
+743.0,2024-09-30,6825.0,Katie Cooke,cmartinez@hotmail.com,Greece,891.0,Sports,Basketball,4.0,534.83,2139.32,East
+744.0,2023-10-25,9227.0,Troy Wagner,amartinez@hotmail.com,Palau,631.0,Electronics,Smartphone,5.0,905.75,4528.75,North
+745.0,2023-12-13,3835.0,Dennis Harris,vwalton@hensley.com,Saint Pierre and Miquelon,700.0,Sports,Football,4.0,946.81,3787.24,East
+746.0,2025-04-23,4475.0,Andrea Turner,sellersamanda@burke-rangel.info,Saudi Arabia,733.0,Beauty,Nail Polish,2.0,497.83,995.66,South
+747.0,2023-12-01,3927.0,Tracy Castillo,kgallegos@rodriguez.com,Sudan,513.0,Electronics,Camera,8.0,721.28,5770.24,East
+748.0,2023-08-23,7856.0,Theresa Garcia,johnsonkristina@gmail.com,Saint Barthelemy,580.0,Electronics,Camera,5.0,421.08,2105.4,West
+749.0,2024-06-23,5048.0,Frank Chandler,tammyhoover@bender-ferguson.biz,Mayotte,704.0,Beauty,Perfume,8.0,59.31,474.48,East
+750.0,2024-10-22,5458.0,Michael Waller,meganjones@watkins.com,India,943.0,Electronics,Monitor,9.0,147.61,1328.49,East
+751.0,2023-08-30,7494.0,Christopher Leon,margaretburnett@rivera.com,New Zealand,701.0,Furniture,Table,1.0,650.72,650.72,North
+752.0,2025-04-16,4305.0,Jennifer Gardner,andradetina@gmail.com,Slovakia (Slovak Republic),634.0,Clothing,Shoes,1.0,233.93,233.93,South
+753.0,2025-02-27,8277.0,Kim Weaver,lambertrodney@hotmail.com,Mongolia,989.0,Clothing,Socks,1.0,190.42,190.42,South
+754.0,2025-05-10,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,514.0,Furniture,Table,4.0,241.65,966.6,West
+755.0,2023-07-25,5061.0,Dennis Carey,bailey62@yahoo.com,Norfolk Island,817.0,Furniture,Chair,9.0,371.01,3339.09,East
+756.0,2024-01-30,9232.0,Vincent Johnson,jperkins@young-santiago.net,Pakistan,774.0,Clothing,Jeans,10.0,724.27,7242.7,South
+757.0,2025-02-19,5851.0,John Flores,kristenkennedy@lane.com,Liberia,594.0,Furniture,Chair,8.0,794.16,6353.28,East
+758.0,2025-01-22,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,903.0,Electronics,Camera,10.0,402.24,4022.4,West
+759.0,2024-04-08,8341.0,Nathaniel Johns,francisco29@ward.info,Macedonia,811.0,Electronics,Monitor,9.0,170.42,1533.78,North
+760.0,2023-11-25,7870.0,Christopher Curtis,nspencer@gmail.com,Oman,866.0,Clothing,Jacket,7.0,248.77,1741.39,South
+761.0,2024-07-29,8942.0,Dean Russell,robert06@hines.com,Belarus,676.0,Sports,Tennis Racket,9.0,176.33,1586.97,East
+762.0,2024-06-20,3335.0,Justin Ellis,amybentley@keith.biz,Estonia,935.0,Beauty,Lotion,8.0,671.67,5373.36,West
+763.0,2024-08-18,9951.0,Mikayla Garrett,ymoran@yahoo.com,Venezuela,673.0,Sports,Tennis Racket,2.0,256.7,513.4,West
+764.0,2023-10-24,6590.0,Dawn Garza,stephen37@matthews.com,Palau,540.0,Beauty,Lotion,10.0,149.07,1490.7,South
+765.0,2024-07-31,8213.0,Jacob Henry,emilysolomon@young.com,Philippines,996.0,Clothing,Jacket,3.0,44.13,132.39,West
+766.0,2024-11-03,9404.0,Mrs. Tricia Newton MD,jessicaschultz@gmail.com,Vanuatu,560.0,Sports,Football,5.0,729.72,3648.6,West
+767.0,2025-06-13,8386.0,Ronnie Wells,michelle25@gmail.com,Faroe Islands,653.0,Clothing,Jacket,8.0,798.81,6390.48,East
+768.0,2024-06-04,5819.0,Thomas Morgan,cking@hernandez.com,Sudan,886.0,Sports,Treadmill,5.0,409.57,2047.85,West
+769.0,2024-05-19,7494.0,Christopher Leon,margaretburnett@rivera.com,New Zealand,623.0,Beauty,Lotion,1.0,476.16,476.16,North
+770.0,2023-09-05,8859.0,Tammy Zhang,rodriguezdalton@hotmail.com,Guam,822.0,Clothing,Shoes,6.0,445.51,2673.06,East
+771.0,2025-05-13,6654.0,Brian Mccarthy,pstout@duncan.com,Anguilla,976.0,Furniture,Chair,7.0,424.14,2968.98,South
+772.0,2024-11-06,4902.0,Kenneth Meyer,ryancurry@anderson-garcia.biz,Ireland,956.0,Furniture,Chair,10.0,217.16,2171.6,East
+773.0,2024-11-06,5357.0,Christopher Hill,jacob63@day.com,Japan,914.0,Furniture,Bed,2.0,231.71,463.42,North
+775.0,2024-06-30,7107.0,Randall Robinson,ucarter@sanders-mccarthy.com,Senegal,901.0,Electronics,Camera,8.0,467.07,3736.56,North
+776.0,2023-08-07,8384.0,Todd Baker,lori50@figueroa.info,Rwanda,905.0,Beauty,Perfume,5.0,993.91,4969.55,East
+777.0,2024-04-25,4902.0,Kenneth Meyer,ryancurry@anderson-garcia.biz,Ireland,896.0,Beauty,Nail Polish,2.0,562.18,1124.36,West
+779.0,2024-03-17,1344.0,James Sanchez,richard00@ramirez-smith.com,Bosnia and Herzegovina,514.0,Clothing,T-Shirt,10.0,90.78,907.8,North
+780.0,2025-01-09,7870.0,Christopher Curtis,nspencer@gmail.com,Oman,948.0,Beauty,Lotion,10.0,122.53,1225.3,East
+781.0,2025-04-01,9387.0,Benjamin Hardy,richardgraves@gmail.com,Mexico,899.0,Clothing,Shoes,8.0,329.99,2639.92,West
+782.0,2024-06-01,3193.0,Kevin Jenkins,zmontgomery@miller-carr.com,Taiwan,696.0,Beauty,Perfume,6.0,817.34,4904.04,North
+784.0,2023-07-30,5622.0,Aaron Cox,rmelton@hughes.info,Mauritania,601.0,Sports,Basketball,10.0,466.85,4668.5,South
+785.0,2024-12-03,8757.0,Michael Mendoza,edward26@gmail.com,Estonia,841.0,Sports,Football,8.0,343.94,2751.52,North
+786.0,2024-11-26,9555.0,Angela Pierce,gerald41@hotmail.com,Ethiopia,703.0,Clothing,T-Shirt,7.0,506.93,3548.51,West
+788.0,2025-02-19,9341.0,Lisa Murphy,antonio56@hotmail.com,Armenia,516.0,Clothing,Socks,2.0,132.76,265.52,North
+789.0,2024-10-29,5678.0,Lisa Williams,yadams@johnson-cruz.com,Niue,823.0,Beauty,Shampoo,10.0,982.21,9822.1,East
+790.0,2024-08-12,8341.0,Nathaniel Johns,francisco29@ward.info,Macedonia,562.0,Electronics,Headphones,1.0,290.95,290.95,West
+791.0,2024-04-22,8588.0,Ellen Horton,ybaker@robinson-murphy.com,Mauritania,611.0,Beauty,Nail Polish,1.0,54.83,54.83,West
+792.0,2025-02-22,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,556.0,Sports,Tennis Racket,6.0,905.66,5433.96,South
+793.0,2024-04-30,2918.0,Christopher Scott,vsmith@banks.com,Gibraltar,609.0,Beauty,Perfume,3.0,264.39,793.17,East
+794.0,2025-05-14,8379.0,David Kelley,bthomas@rios-lawson.com,Guinea,569.0,Furniture,Chair,5.0,412.9,2064.5,North
+795.0,2023-10-29,5909.0,Sharon Ramos,muellerduane@yahoo.com,Angola,672.0,Sports,Football,2.0,796.2,1592.4,East
+796.0,2024-09-09,5758.0,Michael Ball,taylordaniel@yahoo.com,Sao Tome and Principe,869.0,Clothing,Jeans,5.0,997.67,4988.35,East
+797.0,2024-01-07,8384.0,Todd Baker,lori50@figueroa.info,Rwanda,936.0,Clothing,Jeans,8.0,925.32,7402.56,North
+798.0,2024-03-04,4148.0,Gary Torres,greyes@johnson-donovan.com,Malawi,819.0,Clothing,Shoes,8.0,970.59,7764.72,East
+799.0,2024-07-18,2610.0,Krista Sampson,bonnie76@michael.info,Jamaica,819.0,Electronics,Laptop,8.0,493.02,3944.16,South
+800.0,2023-12-10,5043.0,Cheryl Young,jmoreno@morales.info,Belgium,596.0,Electronics,Monitor,1.0,855.7,855.7,South
+801.0,2024-02-07,5061.0,Dennis Carey,bailey62@yahoo.com,Norfolk Island,998.0,Sports,Tennis Racket,1.0,155.84,155.84,East
+802.0,2024-06-10,4705.0,Felicia Garcia,jeremy30@gmail.com,Czech Republic,951.0,Clothing,Jacket,5.0,170.38,851.9,East
+803.0,2025-03-02,2486.0,Scott Greene,wconrad@hotmail.com,United States of America,664.0,Furniture,Chair,9.0,461.84,4156.56,West
+804.0,2024-07-17,5092.0,Kevin Morse PhD,xoliver@tanner.com,Palau,596.0,Clothing,Socks,1.0,238.75,238.75,West
+805.0,2025-04-15,2020.0,Melanie Gonzalez,amber03@hotmail.com,Montserrat,746.0,Clothing,Shoes,6.0,89.67,538.02,East
+806.0,2024-08-17,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,967.0,Sports,Treadmill,8.0,861.58,6892.64,North
+807.0,2024-07-28,7351.0,Joshua Rojas,joneserica@smith-guzman.com,Lebanon,535.0,Sports,Football,2.0,680.94,1361.88,North
+808.0,2025-06-22,7107.0,Randall Robinson,ucarter@sanders-mccarthy.com,Senegal,804.0,Electronics,Laptop,2.0,399.74,799.48,North
+809.0,2024-12-05,4989.0,Ann Lara,kristenstone@yahoo.com,Bosnia and Herzegovina,749.0,Clothing,Socks,3.0,799.93,2399.79,North
+810.0,2024-03-30,5061.0,Dennis Carey,bailey62@yahoo.com,Norfolk Island,885.0,Sports,Treadmill,7.0,404.81,2833.67,West
+811.0,2024-03-30,5458.0,Michael Waller,meganjones@watkins.com,India,691.0,Beauty,Makeup,3.0,54.53,163.59,North
+812.0,2023-10-18,1420.0,Hayley Fox,danaryan@jimenez.com,Faroe Islands,824.0,Sports,Treadmill,2.0,94.43,188.86,East
+813.0,2025-03-10,9035.0,Nathaniel Long,perrychristy@miller-bryant.com,Macedonia,712.0,Clothing,Socks,4.0,996.47,3985.88,South
+814.0,2024-11-17,5678.0,Lisa Williams,yadams@johnson-cruz.com,Niue,704.0,Clothing,Jeans,5.0,451.17,2255.85,East
+815.0,2023-08-28,1158.0,Jessica Morrison,charlesgonzalez@li.org,Guernsey,634.0,Electronics,Laptop,7.0,712.77,4989.39,West
+816.0,2023-08-14,9232.0,Vincent Johnson,jperkins@young-santiago.net,Pakistan,903.0,Clothing,Jacket,4.0,600.41,2401.64,West
+817.0,2025-05-22,8443.0,Joseph Wise,nwhite@davis-foster.com,Jersey,712.0,Clothing,Jacket,2.0,888.64,1777.28,North
+818.0,2025-01-28,1604.0,Tammy Miles,jamesjones@white.com,Chile,786.0,Electronics,Monitor,7.0,438.52,3069.64,South
+819.0,2024-07-14,5061.0,Dennis Carey,bailey62@yahoo.com,Norfolk Island,661.0,Sports,Football,8.0,679.51,5436.08,East
+820.0,2025-03-18,6590.0,Dawn Garza,stephen37@matthews.com,Palau,784.0,Sports,Football,8.0,968.95,7751.6,West
+821.0,2025-06-03,2486.0,Scott Greene,wconrad@hotmail.com,United States of America,883.0,Sports,Tennis Racket,8.0,931.81,7454.48,West
+822.0,2025-02-23,8190.0,Michael Ellis,osbornedonald@yahoo.com,Saint Lucia,924.0,Beauty,Makeup,10.0,22.61,226.1,North
+823.0,2025-03-12,7242.0,Benjamin Peterson,patrickchad@gmail.com,Niger,557.0,Sports,Tennis Racket,1.0,714.48,714.48,North
+824.0,2024-05-08,7625.0,Toni Hernandez,scotttracy@gmail.com,Trinidad and Tobago,984.0,Clothing,T-Shirt,6.0,140.88,845.28,South
+825.0,2025-05-17,4550.0,Christina Rodriguez,stevenslacey@yahoo.com,Albania,645.0,Clothing,Jeans,4.0,352.71,1410.84,East
+826.0,2024-01-22,9227.0,Troy Wagner,amartinez@hotmail.com,Palau,707.0,Electronics,Smartphone,8.0,366.3,2930.4,West
+827.0,2023-10-20,9555.0,Angela Pierce,gerald41@hotmail.com,Ethiopia,995.0,Clothing,T-Shirt,10.0,511.7,5117.0,North
+828.0,2023-12-30,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,985.0,Sports,Tennis Racket,3.0,928.3,2784.9,West
+829.0,2024-03-28,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,643.0,Sports,Treadmill,3.0,664.04,1992.12,East
+830.0,2025-03-21,2231.0,Laurie Wise,alexis07@garcia-brown.com,Cook Islands,616.0,Furniture,Chair,7.0,608.84,4261.88,West
+831.0,2024-12-12,8046.0,Claire Hobbs,aprilboyd@yahoo.com,Italy,606.0,Sports,Treadmill,5.0,22.77,113.85,South
+832.0,2025-03-22,2486.0,Scott Greene,wconrad@hotmail.com,United States of America,930.0,Clothing,Shoes,9.0,553.93,4985.37,West
+833.0,2023-11-07,8384.0,Todd Baker,lori50@figueroa.info,Rwanda,973.0,Beauty,Perfume,3.0,171.76,515.28,East
+834.0,2025-03-30,5698.0,Thomas Robinson,agallagher@gmail.com,Belize,836.0,Beauty,Lotion,8.0,687.43,5499.44,North
+835.0,2023-11-22,4550.0,Christina Rodriguez,stevenslacey@yahoo.com,Albania,662.0,Beauty,Shampoo,2.0,990.74,1981.48,West
+836.0,2023-08-06,9404.0,Mrs. Tricia Newton MD,jessicaschultz@gmail.com,Vanuatu,621.0,Furniture,Bed,9.0,47.65,428.85,North
+837.0,2024-03-01,8761.0,Sara Green,joseph01@gmail.com,Nicaragua,942.0,Beauty,Shampoo,6.0,657.07,3942.42,North
+838.0,2024-03-30,1008.0,Nicholas Barnes,taylorrobert@gmail.com,United Arab Emirates,958.0,Sports,Treadmill,10.0,740.7,7407.0,East
+839.0,2024-10-04,6654.0,Brian Mccarthy,pstout@duncan.com,Anguilla,638.0,Electronics,Smartphone,8.0,983.94,7871.52,West
+840.0,2024-07-22,9341.0,Lisa Murphy,antonio56@hotmail.com,Armenia,847.0,Sports,Bicycle,4.0,377.98,1511.92,South
+841.0,2025-03-01,5758.0,Michael Ball,taylordaniel@yahoo.com,Sao Tome and Principe,988.0,Sports,Treadmill,1.0,997.01,997.01,South
+842.0,2025-02-01,4211.0,Rachael Woods,washingtonsarah@yahoo.com,Sri Lanka,582.0,Electronics,Laptop,6.0,420.5,2523.0,North
+843.0,2023-12-04,2599.0,Benjamin Hart,michelle12@hotmail.com,Saudi Arabia,686.0,Sports,Treadmill,4.0,889.02,3556.08,North
+844.0,2025-05-12,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,764.0,Sports,Tennis Racket,4.0,445.47,1781.88,West
+845.0,2025-03-06,7538.0,Michael Brooks,garciakristin@miller.org,Belize,537.0,Clothing,Jeans,1.0,728.31,728.31,West
+846.0,2024-06-12,4902.0,Kenneth Meyer,ryancurry@anderson-garcia.biz,Ireland,951.0,Clothing,Shoes,9.0,606.9,5462.1,South
+847.0,2023-11-20,4475.0,Andrea Turner,sellersamanda@burke-rangel.info,Saudi Arabia,723.0,Sports,Tennis Racket,7.0,310.91,2176.37,West
+848.0,2024-07-26,2599.0,Benjamin Hart,michelle12@hotmail.com,Saudi Arabia,917.0,Beauty,Makeup,5.0,457.18,2285.9,West
+849.0,2024-03-26,2734.0,Erica Brown,webermolly@gilmore-andrews.net,Libyan Arab Jamahiriya,652.0,Sports,Tennis Racket,5.0,898.66,4493.3,South
+850.0,2025-02-08,5333.0,Deborah Brooks,carolyndodson@castro.net,Hong Kong,614.0,Sports,Bicycle,8.0,446.45,3571.6,South
+851.0,2024-04-29,8859.0,Tammy Zhang,rodriguezdalton@hotmail.com,Guam,696.0,Sports,Football,9.0,978.5,8806.5,East
+852.0,2024-08-31,9233.0,Justin Burgess,vnelson@roberts-murray.com,Israel,826.0,Beauty,Shampoo,3.0,359.02,1077.06,North
+853.0,2024-02-10,5174.0,Larry Mack,barnesjennifer@kennedy-porter.org,Croatia,709.0,Electronics,Monitor,2.0,226.99,453.98,North
+854.0,2024-11-10,7417.0,Nicole Moses,austinerin@hotmail.com,Sweden,720.0,Electronics,Laptop,8.0,696.4,5571.2,East
+855.0,2024-04-29,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,880.0,Furniture,Chair,5.0,89.14,445.7,North
+856.0,2024-01-06,3835.0,Dennis Harris,vwalton@hensley.com,Saint Pierre and Miquelon,591.0,Beauty,Nail Polish,1.0,714.4,714.4,West
+857.0,2025-04-12,3659.0,Tanya Franklin,williamsedwin@hotmail.com,Peru,873.0,Beauty,Makeup,7.0,339.71,2377.97,North
+858.0,2024-01-02,8433.0,Jacob Norris,mariachang@nguyen.com,South Georgia and the South Sandwich Islands,715.0,Electronics,Monitor,1.0,666.97,666.97,East
+859.0,2023-11-22,8604.0,Timothy Henson,sarah52@reed.org,Mayotte,624.0,Electronics,Monitor,8.0,989.8,7918.4,West
+860.0,2024-11-13,8384.0,Todd Baker,lori50@figueroa.info,Rwanda,760.0,Beauty,Lotion,9.0,25.41,228.69,East
+861.0,2025-02-28,2462.0,Tracey Medina,brett24@hotmail.com,Netherlands,997.0,Clothing,Socks,6.0,305.25,1831.5,East
+862.0,2024-12-06,2231.0,Laurie Wise,alexis07@garcia-brown.com,Cook Islands,767.0,Sports,Treadmill,7.0,205.94,1441.58,North
+863.0,2023-08-21,7538.0,Michael Brooks,garciakristin@miller.org,Belize,979.0,Beauty,Nail Polish,4.0,807.43,3229.72,South
+864.0,2024-11-30,4989.0,Ann Lara,kristenstone@yahoo.com,Bosnia and Herzegovina,610.0,Electronics,Laptop,8.0,399.71,3197.68,North
+865.0,2024-02-01,1158.0,Jessica Morrison,charlesgonzalez@li.org,Guernsey,606.0,Beauty,Perfume,7.0,535.29,3747.03,North
+866.0,2025-01-06,8757.0,Michael Mendoza,edward26@gmail.com,Estonia,995.0,Furniture,Bed,5.0,51.06,255.3,East
+867.0,2023-11-12,4809.0,Justin Montgomery,jack80@clark-pratt.com,Djibouti,953.0,Sports,Football,1.0,549.98,549.98,East
+868.0,2025-01-27,5333.0,Deborah Brooks,carolyndodson@castro.net,Hong Kong,853.0,Beauty,Makeup,10.0,763.17,7631.7,South
+869.0,2023-10-17,5684.0,Dennis Mack,hannahfriedman@jacobs.biz,Tonga,902.0,Clothing,Shoes,9.0,662.42,5961.78,East
+870.0,2025-02-15,3553.0,Lindsay Taylor,dherrera@martinez.com,Jamaica,952.0,Electronics,Monitor,6.0,531.01,3186.06,West
+872.0,2024-09-14,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,532.0,Beauty,Makeup,4.0,586.3,2345.2,West
+873.0,2024-06-10,7361.0,Willie Castillo Jr.,awaters@hotmail.com,Comoros,645.0,Furniture,Chair,3.0,561.88,1685.64,East
+874.0,2025-03-04,4896.0,Paul Gonzalez,charlesmendez@hotmail.com,Australia,627.0,Furniture,Couch,9.0,530.94,4778.46,East
+875.0,2024-11-16,5017.0,James Henderson,sanderstina@valdez.biz,Monaco,719.0,Beauty,Lotion,10.0,631.76,6317.6,North
+876.0,2024-05-27,9107.0,Jason Miller,catherineperry@contreras.com,Palau,754.0,Furniture,Desk,6.0,324.56,1947.36,North
+877.0,2023-11-06,7870.0,Christopher Curtis,nspencer@gmail.com,Oman,508.0,Electronics,Smartphone,10.0,965.62,9656.2,South
+878.0,2024-11-22,1405.0,Tracey Robbins,stephen58@gmail.com,Samoa,939.0,Clothing,Jacket,9.0,214.88,1933.92,East
+879.0,2023-09-19,8379.0,David Kelley,bthomas@rios-lawson.com,Guinea,629.0,Sports,Treadmill,1.0,577.73,577.73,West
+881.0,2025-05-02,5400.0,Jessica Weber,mejiaalisha@gmail.com,Guinea,690.0,Electronics,Camera,1.0,808.25,808.25,West
+882.0,2024-10-20,9938.0,William Rivera,randolphkathryn@curtis.biz,Mongolia,741.0,Furniture,Chair,8.0,277.42,2219.36,East
+883.0,2025-01-07,8213.0,Jacob Henry,emilysolomon@young.com,Philippines,883.0,Sports,Basketball,1.0,128.2,128.2,West
+884.0,2023-12-20,9951.0,Mikayla Garrett,ymoran@yahoo.com,Venezuela,621.0,Beauty,Lotion,1.0,855.7,855.7,North
+885.0,2023-08-17,9594.0,Miss Alexandra Scott,michaeljones@perez.com,Netherlands,514.0,Furniture,Table,6.0,693.18,4159.08,South
+886.0,2024-06-02,5592.0,Tammy Fleming,john59@wells.com,Germany,582.0,Clothing,Shoes,9.0,555.9,5003.1,North
+887.0,2024-03-07,1349.0,Holly Jones,yrangel@yahoo.com,Solomon Islands,685.0,Electronics,Smartphone,2.0,954.46,1908.92,East
+888.0,2024-11-02,1792.0,Patrick Brown,janekelley@hotmail.com,French Southern Territories,723.0,Sports,Treadmill,1.0,981.68,981.68,South
+889.0,2023-10-26,5017.0,James Henderson,sanderstina@valdez.biz,Monaco,534.0,Beauty,Nail Polish,5.0,211.76,1058.8,West
+890.0,2024-06-10,6093.0,Ashley Russo,johnsmith@hotmail.com,Liberia,802.0,Furniture,Desk,3.0,547.14,1641.42,West
+891.0,2025-01-27,9001.0,Diane Lawrence,qcook@stewart.biz,Turks and Caicos Islands,586.0,Clothing,Jeans,2.0,609.23,1218.46,East
+892.0,2023-11-18,3565.0,James Rose,tinasanders@mcdaniel-king.com,Zimbabwe,656.0,Electronics,Smartphone,6.0,225.79,1354.74,West
+893.0,2023-11-12,6357.0,Kylie Mclaughlin,hurstkaren@anderson.com,Wallis and Futuna,981.0,Electronics,Monitor,6.0,219.73,1318.38,West
+894.0,2023-09-26,7538.0,Michael Brooks,garciakristin@miller.org,Belize,961.0,Furniture,Table,4.0,179.29,717.16,South
+895.0,2023-12-01,5758.0,Michael Ball,taylordaniel@yahoo.com,Sao Tome and Principe,615.0,Beauty,Shampoo,4.0,167.09,668.36,East
+896.0,2023-10-06,5957.0,Michael Mathews,omorgan@stewart.com,Western Sahara,674.0,Beauty,Makeup,3.0,493.66,1480.98,West
+897.0,2024-11-05,2978.0,Savannah Shah,christian27@hotmail.com,Saint Kitts and Nevis,808.0,Furniture,Couch,1.0,494.09,494.09,West
+898.0,2024-06-23,8341.0,Nathaniel Johns,francisco29@ward.info,Macedonia,938.0,Sports,Football,7.0,769.51,5386.57,South
+899.0,2024-12-13,7494.0,Christopher Leon,margaretburnett@rivera.com,New Zealand,863.0,Clothing,Shoes,10.0,857.31,8573.1,South
+900.0,2024-08-31,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,700.0,Clothing,Jacket,1.0,484.24,484.24,South
+901.0,2025-05-12,4603.0,Martin Brown,bennettjoseph@hotmail.com,Finland,778.0,Clothing,Jacket,8.0,313.24,2505.92,East
+902.0,2025-04-12,4655.0,Karen Munoz,glopez@hotmail.com,Central African Republic,519.0,Furniture,Desk,5.0,338.16,1690.8,East
+903.0,2025-05-15,5357.0,Christopher Hill,jacob63@day.com,Japan,859.0,Clothing,Shoes,2.0,756.07,1512.14,North
+904.0,2025-06-14,6357.0,Kylie Mclaughlin,hurstkaren@anderson.com,Wallis and Futuna,644.0,Furniture,Couch,5.0,268.48,1342.4,East
+905.0,2024-04-06,8443.0,Joseph Wise,nwhite@davis-foster.com,Jersey,626.0,Sports,Tennis Racket,1.0,764.1,764.1,North
+906.0,2024-05-22,2918.0,Christopher Scott,vsmith@banks.com,Gibraltar,872.0,Electronics,Camera,5.0,96.14,480.7,West
+907.0,2024-07-19,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,923.0,Furniture,Desk,8.0,868.23,6945.84,East
+908.0,2023-08-04,3767.0,Monica Ortega,uprince@flowers.biz,American Samoa,519.0,Furniture,Chair,1.0,655.27,655.27,North
+909.0,2024-10-11,5323.0,Elizabeth Woodard,iparker@graham.com,Indonesia,743.0,Electronics,Smartphone,9.0,880.49,7924.41,North
+910.0,2024-03-28,6883.0,Tamara Perez,jacksonjames@gmail.com,Nigeria,742.0,Clothing,T-Shirt,2.0,265.3,530.6,West
+911.0,2023-11-13,7351.0,Joshua Rojas,joneserica@smith-guzman.com,Lebanon,503.0,Beauty,Nail Polish,5.0,412.5,2062.5,South
+912.0,2023-11-13,9938.0,William Rivera,randolphkathryn@curtis.biz,Mongolia,660.0,Furniture,Bed,7.0,532.48,3727.36,North
+913.0,2023-12-02,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,881.0,Clothing,Socks,1.0,859.85,859.85,West
+914.0,2023-08-08,1440.0,Miguel Johnson,taraward@gmail.com,Estonia,674.0,Beauty,Makeup,5.0,765.92,3829.6,South
+915.0,2025-06-09,2681.0,Rhonda Dunn,bishoplawrence@alvarado-turner.biz,Aruba,873.0,Furniture,Desk,7.0,384.31,2690.17,South
+916.0,2023-10-25,8480.0,Zachary Murphy,juanthompson@hotmail.com,Belarus,598.0,Sports,Tennis Racket,10.0,34.45,344.5,East
+917.0,2024-06-28,7259.0,Lisa Torres,charlescox@yahoo.com,Kuwait,666.0,Electronics,Camera,1.0,696.8,696.8,South
+918.0,2024-04-13,2377.0,Heather Smith,kingeric@whitney.net,Burkina Faso,901.0,Clothing,Socks,2.0,70.13,140.26,West
+919.0,2023-08-22,5851.0,John Flores,kristenkennedy@lane.com,Liberia,991.0,Furniture,Bed,6.0,592.39,3554.34,North
+921.0,2023-10-25,4305.0,Jennifer Gardner,andradetina@gmail.com,Slovakia (Slovak Republic),606.0,Beauty,Shampoo,1.0,430.83,430.83,West
+922.0,2024-11-08,4550.0,Christina Rodriguez,stevenslacey@yahoo.com,Albania,691.0,Beauty,Nail Polish,6.0,849.73,5098.38,North
+923.0,2024-08-31,9404.0,Mrs. Tricia Newton MD,jessicaschultz@gmail.com,Vanuatu,757.0,Furniture,Bed,3.0,494.54,1483.62,South
+924.0,2024-04-06,5043.0,Cheryl Young,jmoreno@morales.info,Belgium,801.0,Clothing,Jacket,3.0,225.53,676.59,North
+925.0,2024-05-29,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,595.0,Beauty,Makeup,6.0,530.39,3182.34,East
+926.0,2025-05-10,3607.0,Jonathan Wood,brownkimberly@hotmail.com,Djibouti,939.0,Electronics,Smartphone,1.0,498.97,498.97,East
+927.0,2023-10-21,8437.0,Francisco Beasley,thompsonmichelle@gmail.com,Brazil,935.0,Furniture,Desk,9.0,296.31,2666.79,West
+928.0,2024-05-19,8379.0,David Kelley,bthomas@rios-lawson.com,Guinea,932.0,Clothing,Socks,8.0,499.67,3997.36,East
+929.0,2025-04-13,1908.0,Stanley Grant,kevin63@padilla.com,Angola,713.0,Electronics,Laptop,3.0,509.33,1527.99,North
+931.0,2025-05-02,9703.0,Jeremy Baker,andrew88@brown-ortiz.com,Cuba,843.0,Clothing,T-Shirt,8.0,955.17,7641.36,South
+932.0,2024-07-12,3976.0,Leslie Torres,hrocha@gmail.com,Niger,676.0,Clothing,Shoes,2.0,460.17,920.34,South
+933.0,2024-12-05,8757.0,Michael Mendoza,edward26@gmail.com,Estonia,827.0,Furniture,Bed,3.0,631.13,1893.39,South
+934.0,2025-02-14,8757.0,Michael Mendoza,edward26@gmail.com,Estonia,710.0,Clothing,T-Shirt,10.0,828.37,8283.7,West
+935.0,2023-10-31,9451.0,Ashley Williams,aliciagreen@hartman.com,Uzbekistan,910.0,Beauty,Lotion,5.0,166.17,830.85,South
+936.0,2024-06-06,4717.0,Emily Phillips,laura35@yahoo.com,Armenia,751.0,Clothing,Jacket,8.0,330.08,2640.64,West
+937.0,2023-07-28,2978.0,Savannah Shah,christian27@hotmail.com,Saint Kitts and Nevis,891.0,Clothing,Shoes,7.0,106.77,747.39,West
+938.0,2024-02-07,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,919.0,Sports,Basketball,4.0,870.56,3482.24,South
+939.0,2023-12-06,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,549.0,Furniture,Bed,8.0,232.88,1863.04,North
+940.0,2025-03-13,8491.0,Jane Perkins,gmiller@yahoo.com,Saint Martin,613.0,Sports,Bicycle,10.0,458.29,4582.9,South
+941.0,2024-02-10,5909.0,Sharon Ramos,muellerduane@yahoo.com,Angola,825.0,Beauty,Makeup,6.0,486.98,2921.88,West
+942.0,2024-08-18,8190.0,Michael Ellis,osbornedonald@yahoo.com,Saint Lucia,522.0,Clothing,Jeans,5.0,772.5,3862.5,East
+943.0,2024-08-13,4926.0,Joseph Cherry DDS,simonjoe@hotmail.com,Guam,596.0,Sports,Treadmill,10.0,723.2,7232.0,South
+944.0,2024-08-15,2610.0,Krista Sampson,bonnie76@michael.info,Jamaica,623.0,Clothing,Jeans,3.0,710.73,2132.19,East
+945.0,2025-02-22,8761.0,Sara Green,joseph01@gmail.com,Nicaragua,504.0,Clothing,Socks,10.0,217.69,2176.9,West
+946.0,2024-08-09,2231.0,Laurie Wise,alexis07@garcia-brown.com,Cook Islands,975.0,Beauty,Lotion,4.0,598.15,2392.6,North
+947.0,2023-09-01,4148.0,Gary Torres,greyes@johnson-donovan.com,Malawi,584.0,Sports,Football,10.0,783.11,7831.1,South
+948.0,2023-12-12,2672.0,Annette Phillips,aaron27@yahoo.com,Guadeloupe,554.0,Clothing,Jeans,1.0,521.0,521.0,West
+949.0,2024-03-17,1349.0,Holly Jones,yrangel@yahoo.com,Solomon Islands,817.0,Electronics,Headphones,5.0,199.55,997.75,East
+950.0,2024-01-03,8882.0,Samuel Brown,lisa41@guerra.com,Myanmar,784.0,Furniture,Table,9.0,268.25,2414.25,West
+951.0,2024-05-20,4988.0,Lori Medina,peterallen@hotmail.com,Gibraltar,569.0,Clothing,Jacket,1.0,934.29,934.29,North
+952.0,2025-04-03,1736.0,David Monroe,omartinez@yahoo.com,Lebanon,867.0,Furniture,Desk,7.0,111.34,779.38,East
+953.0,2024-10-02,6590.0,Dawn Garza,stephen37@matthews.com,Palau,819.0,Furniture,Couch,10.0,506.27,5062.7,East
+954.0,2024-09-12,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,871.0,Furniture,Couch,9.0,80.08,720.72,North
+955.0,2023-08-03,3976.0,Leslie Torres,hrocha@gmail.com,Niger,610.0,Electronics,Laptop,8.0,132.38,1059.04,East
+956.0,2024-01-24,3835.0,Dennis Harris,vwalton@hensley.com,Saint Pierre and Miquelon,812.0,Furniture,Desk,8.0,528.88,4231.04,East
+957.0,2023-09-17,1158.0,Jessica Morrison,charlesgonzalez@li.org,Guernsey,761.0,Sports,Bicycle,4.0,132.91,531.64,East
+958.0,2024-05-29,1460.0,Jenny Diaz,robinsonkayla@hotmail.com,Mayotte,507.0,Sports,Tennis Racket,2.0,257.84,515.68,North
+959.0,2025-03-25,7107.0,Randall Robinson,ucarter@sanders-mccarthy.com,Senegal,852.0,Furniture,Table,9.0,164.07,1476.63,North
+960.0,2023-12-22,6466.0,Jerry Schneider,gcook@gmail.com,United Arab Emirates,914.0,Electronics,Smartphone,5.0,468.26,2341.3,East
+961.0,2024-09-11,3513.0,Emily Martin,danny09@gmail.com,Grenada,716.0,Beauty,Perfume,10.0,83.64,836.4,North
+962.0,2023-11-07,2734.0,Erica Brown,webermolly@gilmore-andrews.net,Libyan Arab Jamahiriya,702.0,Furniture,Table,2.0,305.96,611.92,East
+963.0,2024-08-24,2672.0,Annette Phillips,aaron27@yahoo.com,Guadeloupe,546.0,Sports,Bicycle,7.0,622.43,4357.01,North
+964.0,2024-12-26,9938.0,William Rivera,randolphkathryn@curtis.biz,Mongolia,739.0,Furniture,Couch,9.0,893.89,8045.01,North
+965.0,2024-02-03,9341.0,Lisa Murphy,antonio56@hotmail.com,Armenia,759.0,Clothing,Socks,1.0,802.31,802.31,West
+966.0,2024-03-09,9583.0,David Farley,mirandapeterson@fisher.info,Afghanistan,736.0,Sports,Basketball,10.0,990.51,9905.1,West
+967.0,2025-04-28,9035.0,Nathaniel Long,perrychristy@miller-bryant.com,Macedonia,579.0,Sports,Tennis Racket,4.0,878.73,3514.92,North
+968.0,2025-05-08,4073.0,Joshua Howard,ernestpoole@williams.com,Colombia,950.0,Clothing,Jeans,2.0,546.03,1092.06,North
+970.0,2023-09-26,2501.0,Beverly Estes,nmoore@gmail.com,Mauritania,548.0,Furniture,Chair,1.0,36.79,36.79,North
+972.0,2023-12-21,8882.0,Samuel Brown,lisa41@guerra.com,Myanmar,921.0,Sports,Tennis Racket,2.0,440.19,880.38,West
+973.0,2025-04-10,4148.0,Gary Torres,greyes@johnson-donovan.com,Malawi,790.0,Furniture,Couch,9.0,517.38,4656.42,West
+975.0,2025-04-06,5357.0,Christopher Hill,jacob63@day.com,Japan,965.0,Electronics,Camera,9.0,289.06,2601.54,West
+976.0,2024-01-21,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,847.0,Furniture,Desk,5.0,287.05,1435.25,East
+977.0,2025-04-20,3976.0,Leslie Torres,hrocha@gmail.com,Niger,852.0,Furniture,Chair,1.0,776.92,776.92,South
+978.0,2025-03-04,7890.0,Whitney Stewart,jonathan28@meadows.com,Barbados,904.0,Clothing,Jacket,1.0,720.91,720.91,West
+979.0,2025-03-05,4307.0,Matthew Espinoza,rodriguezbrandon@garcia.com,Zimbabwe,552.0,Beauty,Perfume,4.0,554.36,2217.44,West
+980.0,2025-01-22,8341.0,Nathaniel Johns,francisco29@ward.info,Macedonia,718.0,Beauty,Perfume,4.0,345.59,1382.36,East
+981.0,2025-03-07,9326.0,Cynthia Monroe,adammyers@marsh.com,Nauru,832.0,Beauty,Makeup,7.0,641.53,4490.71,South
+983.0,2024-04-18,5048.0,Frank Chandler,tammyhoover@bender-ferguson.biz,Mayotte,631.0,Electronics,Smartphone,3.0,744.41,2233.23,North
+984.0,2024-05-16,1158.0,Jessica Morrison,charlesgonzalez@li.org,Guernsey,755.0,Beauty,Perfume,10.0,363.44,3634.4,East
+985.0,2024-03-14,2585.0,Jeffrey Chase,jillcoleman@gmail.com,Montserrat,733.0,Furniture,Bed,9.0,688.45,6196.05,South
+986.0,2024-12-10,8305.0,Wayne Stokes,brendaclark@castillo-delgado.com,Mali,555.0,Electronics,Monitor,5.0,327.18,1635.9,North
+987.0,2023-10-17,5017.0,James Henderson,sanderstina@valdez.biz,Monaco,591.0,Clothing,Jacket,3.0,383.83,1151.49,North
+988.0,2023-12-31,2132.0,Alicia Cannon,qbrown@decker.org,Pitcairn Islands,933.0,Beauty,Lotion,1.0,73.8,73.8,East
+989.0,2025-06-20,4484.0,Dr. Andrea Lopez,riosdonna@mcdaniel-gallegos.com,Kuwait,547.0,Furniture,Bed,3.0,923.71,2771.13,East
+990.0,2024-02-19,4705.0,Felicia Garcia,jeremy30@gmail.com,Czech Republic,655.0,Furniture,Bed,5.0,374.79,1873.95,East
+991.0,2025-01-23,7295.0,Michael Johnson,wrightlaura@harris.biz,Eritrea,886.0,Electronics,Smartphone,3.0,878.35,2635.05,South
+992.0,2024-07-05,1440.0,Miguel Johnson,taraward@gmail.com,Estonia,507.0,Electronics,Camera,10.0,123.88,1238.8,South
+994.0,2024-05-14,6989.0,Ronald Stewart,simonbrianna@schmidt.com,Yemen,943.0,Sports,Bicycle,8.0,91.52,732.16,West
+995.0,2024-09-26,2599.0,Benjamin Hart,michelle12@hotmail.com,Saudi Arabia,941.0,Beauty,Shampoo,8.0,204.73,1637.84,West
+996.0,2023-10-28,5323.0,Elizabeth Woodard,iparker@graham.com,Indonesia,791.0,Furniture,Bed,2.0,392.86,785.72,North
+997.0,2023-12-13,7890.0,Whitney Stewart,jonathan28@meadows.com,Barbados,635.0,Clothing,Jeans,4.0,370.76,1483.04,South
+998.0,2024-06-01,9094.0,Erica Martin,monica53@kim.com,Guadeloupe,507.0,Clothing,Jacket,8.0,350.61,2804.88,North
+999.0,2023-09-23,6357.0,Kylie Mclaughlin,hurstkaren@anderson.com,Wallis and Futuna,722.0,Beauty,Shampoo,7.0,255.01,1785.07,South
+1000.0,2023-08-30,4305.0,Jennifer Gardner,andradetina@gmail.com,Slovakia (Slovak Republic),963.0,Sports,Tennis Racket,7.0,455.97,3191.79,East
